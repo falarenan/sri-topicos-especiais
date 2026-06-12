@@ -1,0 +1,721 @@
+Token	POS-Tag	OOV	Id	Index	Granularidade	Documento
+A	DET	0	1	0	0	A Microsoft lançou novas ferramentas de inteligência artificial para empresas em São Paulo . A empresa afirmou que os recursos ajudam equipes de tecnologia .
+Microsoft	PROPN	0	1	1	0	A Microsoft lançou novas ferramentas de inteligência artificial para empresas em São Paulo . A empresa afirmou que os recursos ajudam equipes de tecnologia .
+lançou	VERB	0	1	2	0	A Microsoft lançou novas ferramentas de inteligência artificial para empresas em São Paulo . A empresa afirmou que os recursos ajudam equipes de tecnologia .
+novas	ADJ	0	1	3	0	A Microsoft lançou novas ferramentas de inteligência artificial para empresas em São Paulo . A empresa afirmou que os recursos ajudam equipes de tecnologia .
+ferramentas	NOUN	0	1	4	0	A Microsoft lançou novas ferramentas de inteligência artificial para empresas em São Paulo . A empresa afirmou que os recursos ajudam equipes de tecnologia .
+de	ADP	0	1	5	0	A Microsoft lançou novas ferramentas de inteligência artificial para empresas em São Paulo . A empresa afirmou que os recursos ajudam equipes de tecnologia .
+inteligência	NOUN	0	1	6	0	A Microsoft lançou novas ferramentas de inteligência artificial para empresas em São Paulo . A empresa afirmou que os recursos ajudam equipes de tecnologia .
+artificial	ADJ	0	1	7	0	A Microsoft lançou novas ferramentas de inteligência artificial para empresas em São Paulo . A empresa afirmou que os recursos ajudam equipes de tecnologia .
+para	ADP	0	1	8	0	A Microsoft lançou novas ferramentas de inteligência artificial para empresas em São Paulo . A empresa afirmou que os recursos ajudam equipes de tecnologia .
+empresas	NOUN	0	1	9	0	A Microsoft lançou novas ferramentas de inteligência artificial para empresas em São Paulo . A empresa afirmou que os recursos ajudam equipes de tecnologia .
+em	ADP	0	1	10	0	A Microsoft lançou novas ferramentas de inteligência artificial para empresas em São Paulo . A empresa afirmou que os recursos ajudam equipes de tecnologia .
+São	PROPN	0	1	11	0	A Microsoft lançou novas ferramentas de inteligência artificial para empresas em São Paulo . A empresa afirmou que os recursos ajudam equipes de tecnologia .
+Paulo	PROPN	0	1	12	0	A Microsoft lançou novas ferramentas de inteligência artificial para empresas em São Paulo . A empresa afirmou que os recursos ajudam equipes de tecnologia .
+.	PUNCT	0	1	13	0	A Microsoft lançou novas ferramentas de inteligência artificial para empresas em São Paulo . A empresa afirmou que os recursos ajudam equipes de tecnologia .
+A	DET	0	1	14	0	A Microsoft lançou novas ferramentas de inteligência artificial para empresas em São Paulo . A empresa afirmou que os recursos ajudam equipes de tecnologia .
+empresa	NOUN	0	1	15	0	A Microsoft lançou novas ferramentas de inteligência artificial para empresas em São Paulo . A empresa afirmou que os recursos ajudam equipes de tecnologia .
+afirmou	VERB	0	1	16	0	A Microsoft lançou novas ferramentas de inteligência artificial para empresas em São Paulo . A empresa afirmou que os recursos ajudam equipes de tecnologia .
+que	SCONJ	0	1	17	0	A Microsoft lançou novas ferramentas de inteligência artificial para empresas em São Paulo . A empresa afirmou que os recursos ajudam equipes de tecnologia .
+os	DET	0	1	18	0	A Microsoft lançou novas ferramentas de inteligência artificial para empresas em São Paulo . A empresa afirmou que os recursos ajudam equipes de tecnologia .
+recursos	NOUN	0	1	19	0	A Microsoft lançou novas ferramentas de inteligência artificial para empresas em São Paulo . A empresa afirmou que os recursos ajudam equipes de tecnologia .
+ajudam	VERB	0	1	20	0	A Microsoft lançou novas ferramentas de inteligência artificial para empresas em São Paulo . A empresa afirmou que os recursos ajudam equipes de tecnologia .
+equipes	NOUN	0	1	21	0	A Microsoft lançou novas ferramentas de inteligência artificial para empresas em São Paulo . A empresa afirmou que os recursos ajudam equipes de tecnologia .
+de	ADP	0	1	22	0	A Microsoft lançou novas ferramentas de inteligência artificial para empresas em São Paulo . A empresa afirmou que os recursos ajudam equipes de tecnologia .
+tecnologia	NOUN	0	1	23	0	A Microsoft lançou novas ferramentas de inteligência artificial para empresas em São Paulo . A empresa afirmou que os recursos ajudam equipes de tecnologia .
+.	PUNCT	0	1	24	0	A Microsoft lançou novas ferramentas de inteligência artificial para empresas em São Paulo . A empresa afirmou que os recursos ajudam equipes de tecnologia .
+0	['DET', 'PROPN', 'VERB', 'ADJ', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'ADP', 'NOUN', 'ADP', 'PROPN', 'PROPN', 'PUNCT', 'DET', 'NOUN', 'VERB', 'SCONJ', 'DET', 'NOUN', 'VERB', 'NOUN', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	1	0	1	A Microsoft lançou novas ferramentas de inteligência artificial para empresas em São Paulo . A empresa afirmou que os recursos ajudam equipes de tecnologia .
+A	DET	0	2	0	0	A Universidade de São Paulo realizou uma pesquisa sobre segurança da informação . O estudo analisou riscos digitais em organizações brasileiras .
+Universidade	PROPN	0	2	1	0	A Universidade de São Paulo realizou uma pesquisa sobre segurança da informação . O estudo analisou riscos digitais em organizações brasileiras .
+de	ADP	0	2	2	0	A Universidade de São Paulo realizou uma pesquisa sobre segurança da informação . O estudo analisou riscos digitais em organizações brasileiras .
+São	PROPN	0	2	3	0	A Universidade de São Paulo realizou uma pesquisa sobre segurança da informação . O estudo analisou riscos digitais em organizações brasileiras .
+Paulo	PROPN	0	2	4	0	A Universidade de São Paulo realizou uma pesquisa sobre segurança da informação . O estudo analisou riscos digitais em organizações brasileiras .
+realizou	VERB	0	2	5	0	A Universidade de São Paulo realizou uma pesquisa sobre segurança da informação . O estudo analisou riscos digitais em organizações brasileiras .
+uma	DET	0	2	6	0	A Universidade de São Paulo realizou uma pesquisa sobre segurança da informação . O estudo analisou riscos digitais em organizações brasileiras .
+pesquisa	NOUN	0	2	7	0	A Universidade de São Paulo realizou uma pesquisa sobre segurança da informação . O estudo analisou riscos digitais em organizações brasileiras .
+sobre	ADP	0	2	8	0	A Universidade de São Paulo realizou uma pesquisa sobre segurança da informação . O estudo analisou riscos digitais em organizações brasileiras .
+segurança	NOUN	0	2	9	0	A Universidade de São Paulo realizou uma pesquisa sobre segurança da informação . O estudo analisou riscos digitais em organizações brasileiras .
+da	ADP	0	2	10	0	A Universidade de São Paulo realizou uma pesquisa sobre segurança da informação . O estudo analisou riscos digitais em organizações brasileiras .
+informação	NOUN	0	2	11	0	A Universidade de São Paulo realizou uma pesquisa sobre segurança da informação . O estudo analisou riscos digitais em organizações brasileiras .
+.	PUNCT	0	2	12	0	A Universidade de São Paulo realizou uma pesquisa sobre segurança da informação . O estudo analisou riscos digitais em organizações brasileiras .
+O	DET	0	2	13	0	A Universidade de São Paulo realizou uma pesquisa sobre segurança da informação . O estudo analisou riscos digitais em organizações brasileiras .
+estudo	NOUN	0	2	14	0	A Universidade de São Paulo realizou uma pesquisa sobre segurança da informação . O estudo analisou riscos digitais em organizações brasileiras .
+analisou	VERB	1	2	15	0	A Universidade de São Paulo realizou uma pesquisa sobre segurança da informação . O estudo analisou riscos digitais em organizações brasileiras .
+riscos	NOUN	0	2	16	0	A Universidade de São Paulo realizou uma pesquisa sobre segurança da informação . O estudo analisou riscos digitais em organizações brasileiras .
+digitais	ADJ	0	2	17	0	A Universidade de São Paulo realizou uma pesquisa sobre segurança da informação . O estudo analisou riscos digitais em organizações brasileiras .
+em	ADP	0	2	18	0	A Universidade de São Paulo realizou uma pesquisa sobre segurança da informação . O estudo analisou riscos digitais em organizações brasileiras .
+organizações	NOUN	0	2	19	0	A Universidade de São Paulo realizou uma pesquisa sobre segurança da informação . O estudo analisou riscos digitais em organizações brasileiras .
+brasileiras	ADJ	0	2	20	0	A Universidade de São Paulo realizou uma pesquisa sobre segurança da informação . O estudo analisou riscos digitais em organizações brasileiras .
+.	PUNCT	0	2	21	0	A Universidade de São Paulo realizou uma pesquisa sobre segurança da informação . O estudo analisou riscos digitais em organizações brasileiras .
+1	['DET', 'PROPN', 'ADP', 'PROPN', 'PROPN', 'VERB', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'DET', 'NOUN', 'VERB', 'NOUN', 'ADJ', 'ADP', 'NOUN', 'ADJ', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]	2	1	1	A Universidade de São Paulo realizou uma pesquisa sobre segurança da informação . O estudo analisou riscos digitais em organizações brasileiras .
+O	DET	0	3	0	0	O Google anunciou melhorias em seus serviços de nuvem no Brasil . A empresa destacou o crescimento da computação em nuvem entre pequenas empresas .
+Google	PROPN	0	3	1	0	O Google anunciou melhorias em seus serviços de nuvem no Brasil . A empresa destacou o crescimento da computação em nuvem entre pequenas empresas .
+anunciou	VERB	0	3	2	0	O Google anunciou melhorias em seus serviços de nuvem no Brasil . A empresa destacou o crescimento da computação em nuvem entre pequenas empresas .
+melhorias	NOUN	0	3	3	0	O Google anunciou melhorias em seus serviços de nuvem no Brasil . A empresa destacou o crescimento da computação em nuvem entre pequenas empresas .
+em	ADP	0	3	4	0	O Google anunciou melhorias em seus serviços de nuvem no Brasil . A empresa destacou o crescimento da computação em nuvem entre pequenas empresas .
+seus	DET	0	3	5	0	O Google anunciou melhorias em seus serviços de nuvem no Brasil . A empresa destacou o crescimento da computação em nuvem entre pequenas empresas .
+serviços	NOUN	0	3	6	0	O Google anunciou melhorias em seus serviços de nuvem no Brasil . A empresa destacou o crescimento da computação em nuvem entre pequenas empresas .
+de	ADP	0	3	7	0	O Google anunciou melhorias em seus serviços de nuvem no Brasil . A empresa destacou o crescimento da computação em nuvem entre pequenas empresas .
+nuvem	NOUN	0	3	8	0	O Google anunciou melhorias em seus serviços de nuvem no Brasil . A empresa destacou o crescimento da computação em nuvem entre pequenas empresas .
+no	ADP	0	3	9	0	O Google anunciou melhorias em seus serviços de nuvem no Brasil . A empresa destacou o crescimento da computação em nuvem entre pequenas empresas .
+Brasil	PROPN	0	3	10	0	O Google anunciou melhorias em seus serviços de nuvem no Brasil . A empresa destacou o crescimento da computação em nuvem entre pequenas empresas .
+.	PUNCT	0	3	11	0	O Google anunciou melhorias em seus serviços de nuvem no Brasil . A empresa destacou o crescimento da computação em nuvem entre pequenas empresas .
+A	DET	0	3	12	0	O Google anunciou melhorias em seus serviços de nuvem no Brasil . A empresa destacou o crescimento da computação em nuvem entre pequenas empresas .
+empresa	NOUN	0	3	13	0	O Google anunciou melhorias em seus serviços de nuvem no Brasil . A empresa destacou o crescimento da computação em nuvem entre pequenas empresas .
+destacou	VERB	0	3	14	0	O Google anunciou melhorias em seus serviços de nuvem no Brasil . A empresa destacou o crescimento da computação em nuvem entre pequenas empresas .
+o	DET	0	3	15	0	O Google anunciou melhorias em seus serviços de nuvem no Brasil . A empresa destacou o crescimento da computação em nuvem entre pequenas empresas .
+crescimento	NOUN	0	3	16	0	O Google anunciou melhorias em seus serviços de nuvem no Brasil . A empresa destacou o crescimento da computação em nuvem entre pequenas empresas .
+da	ADP	0	3	17	0	O Google anunciou melhorias em seus serviços de nuvem no Brasil . A empresa destacou o crescimento da computação em nuvem entre pequenas empresas .
+computação	NOUN	0	3	18	0	O Google anunciou melhorias em seus serviços de nuvem no Brasil . A empresa destacou o crescimento da computação em nuvem entre pequenas empresas .
+em	ADP	0	3	19	0	O Google anunciou melhorias em seus serviços de nuvem no Brasil . A empresa destacou o crescimento da computação em nuvem entre pequenas empresas .
+nuvem	NOUN	0	3	20	0	O Google anunciou melhorias em seus serviços de nuvem no Brasil . A empresa destacou o crescimento da computação em nuvem entre pequenas empresas .
+entre	ADP	0	3	21	0	O Google anunciou melhorias em seus serviços de nuvem no Brasil . A empresa destacou o crescimento da computação em nuvem entre pequenas empresas .
+pequenas	ADJ	0	3	22	0	O Google anunciou melhorias em seus serviços de nuvem no Brasil . A empresa destacou o crescimento da computação em nuvem entre pequenas empresas .
+empresas	NOUN	0	3	23	0	O Google anunciou melhorias em seus serviços de nuvem no Brasil . A empresa destacou o crescimento da computação em nuvem entre pequenas empresas .
+.	PUNCT	0	3	24	0	O Google anunciou melhorias em seus serviços de nuvem no Brasil . A empresa destacou o crescimento da computação em nuvem entre pequenas empresas .
+2	['DET', 'PROPN', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADP', 'PROPN', 'PUNCT', 'DET', 'NOUN', 'VERB', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADP', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	3	2	1	O Google anunciou melhorias em seus serviços de nuvem no Brasil . A empresa destacou o crescimento da computação em nuvem entre pequenas empresas .
+A	DET	0	4	0	0	A Petrobras utiliza sistemas digitais para controlar processos industriais no Rio de Janeiro . A companhia investe em automação e análise de dados .
+Petrobras	PROPN	0	4	1	0	A Petrobras utiliza sistemas digitais para controlar processos industriais no Rio de Janeiro . A companhia investe em automação e análise de dados .
+utiliza	VERB	0	4	2	0	A Petrobras utiliza sistemas digitais para controlar processos industriais no Rio de Janeiro . A companhia investe em automação e análise de dados .
+sistemas	NOUN	0	4	3	0	A Petrobras utiliza sistemas digitais para controlar processos industriais no Rio de Janeiro . A companhia investe em automação e análise de dados .
+digitais	ADJ	0	4	4	0	A Petrobras utiliza sistemas digitais para controlar processos industriais no Rio de Janeiro . A companhia investe em automação e análise de dados .
+para	SCONJ	0	4	5	0	A Petrobras utiliza sistemas digitais para controlar processos industriais no Rio de Janeiro . A companhia investe em automação e análise de dados .
+controlar	VERB	0	4	6	0	A Petrobras utiliza sistemas digitais para controlar processos industriais no Rio de Janeiro . A companhia investe em automação e análise de dados .
+processos	NOUN	0	4	7	0	A Petrobras utiliza sistemas digitais para controlar processos industriais no Rio de Janeiro . A companhia investe em automação e análise de dados .
+industriais	ADJ	0	4	8	0	A Petrobras utiliza sistemas digitais para controlar processos industriais no Rio de Janeiro . A companhia investe em automação e análise de dados .
+no	ADP	0	4	9	0	A Petrobras utiliza sistemas digitais para controlar processos industriais no Rio de Janeiro . A companhia investe em automação e análise de dados .
+Rio	PROPN	0	4	10	0	A Petrobras utiliza sistemas digitais para controlar processos industriais no Rio de Janeiro . A companhia investe em automação e análise de dados .
+de	ADP	0	4	11	0	A Petrobras utiliza sistemas digitais para controlar processos industriais no Rio de Janeiro . A companhia investe em automação e análise de dados .
+Janeiro	PROPN	0	4	12	0	A Petrobras utiliza sistemas digitais para controlar processos industriais no Rio de Janeiro . A companhia investe em automação e análise de dados .
+.	PUNCT	0	4	13	0	A Petrobras utiliza sistemas digitais para controlar processos industriais no Rio de Janeiro . A companhia investe em automação e análise de dados .
+A	DET	0	4	14	0	A Petrobras utiliza sistemas digitais para controlar processos industriais no Rio de Janeiro . A companhia investe em automação e análise de dados .
+companhia	NOUN	0	4	15	0	A Petrobras utiliza sistemas digitais para controlar processos industriais no Rio de Janeiro . A companhia investe em automação e análise de dados .
+investe	VERB	1	4	16	0	A Petrobras utiliza sistemas digitais para controlar processos industriais no Rio de Janeiro . A companhia investe em automação e análise de dados .
+em	ADP	0	4	17	0	A Petrobras utiliza sistemas digitais para controlar processos industriais no Rio de Janeiro . A companhia investe em automação e análise de dados .
+automação	NOUN	1	4	18	0	A Petrobras utiliza sistemas digitais para controlar processos industriais no Rio de Janeiro . A companhia investe em automação e análise de dados .
+e	CCONJ	0	4	19	0	A Petrobras utiliza sistemas digitais para controlar processos industriais no Rio de Janeiro . A companhia investe em automação e análise de dados .
+análise	NOUN	0	4	20	0	A Petrobras utiliza sistemas digitais para controlar processos industriais no Rio de Janeiro . A companhia investe em automação e análise de dados .
+de	ADP	0	4	21	0	A Petrobras utiliza sistemas digitais para controlar processos industriais no Rio de Janeiro . A companhia investe em automação e análise de dados .
+dados	NOUN	0	4	22	0	A Petrobras utiliza sistemas digitais para controlar processos industriais no Rio de Janeiro . A companhia investe em automação e análise de dados .
+.	PUNCT	0	4	23	0	A Petrobras utiliza sistemas digitais para controlar processos industriais no Rio de Janeiro . A companhia investe em automação e análise de dados .
+3	['DET', 'PROPN', 'VERB', 'NOUN', 'ADJ', 'SCONJ', 'VERB', 'NOUN', 'ADJ', 'ADP', 'PROPN', 'ADP', 'PROPN', 'PUNCT', 'DET', 'NOUN', 'VERB', 'ADP', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0]	4	3	1	A Petrobras utiliza sistemas digitais para controlar processos industriais no Rio de Janeiro . A companhia investe em automação e análise de dados .
+O	DET	0	5	0	0	O Banco do Brasil ampliou o uso de aplicativos móveis para atendimento aos clientes . A instituição também reforçou medidas de proteção contra fraudes .
+Banco	PROPN	0	5	1	0	O Banco do Brasil ampliou o uso de aplicativos móveis para atendimento aos clientes . A instituição também reforçou medidas de proteção contra fraudes .
+do	ADP	0	5	2	0	O Banco do Brasil ampliou o uso de aplicativos móveis para atendimento aos clientes . A instituição também reforçou medidas de proteção contra fraudes .
+Brasil	PROPN	0	5	3	0	O Banco do Brasil ampliou o uso de aplicativos móveis para atendimento aos clientes . A instituição também reforçou medidas de proteção contra fraudes .
+ampliou	VERB	0	5	4	0	O Banco do Brasil ampliou o uso de aplicativos móveis para atendimento aos clientes . A instituição também reforçou medidas de proteção contra fraudes .
+o	DET	0	5	5	0	O Banco do Brasil ampliou o uso de aplicativos móveis para atendimento aos clientes . A instituição também reforçou medidas de proteção contra fraudes .
+uso	NOUN	0	5	6	0	O Banco do Brasil ampliou o uso de aplicativos móveis para atendimento aos clientes . A instituição também reforçou medidas de proteção contra fraudes .
+de	ADP	0	5	7	0	O Banco do Brasil ampliou o uso de aplicativos móveis para atendimento aos clientes . A instituição também reforçou medidas de proteção contra fraudes .
+aplicativos	NOUN	0	5	8	0	O Banco do Brasil ampliou o uso de aplicativos móveis para atendimento aos clientes . A instituição também reforçou medidas de proteção contra fraudes .
+móveis	ADJ	0	5	9	0	O Banco do Brasil ampliou o uso de aplicativos móveis para atendimento aos clientes . A instituição também reforçou medidas de proteção contra fraudes .
+para	ADP	0	5	10	0	O Banco do Brasil ampliou o uso de aplicativos móveis para atendimento aos clientes . A instituição também reforçou medidas de proteção contra fraudes .
+atendimento	NOUN	0	5	11	0	O Banco do Brasil ampliou o uso de aplicativos móveis para atendimento aos clientes . A instituição também reforçou medidas de proteção contra fraudes .
+aos	ADP	0	5	12	0	O Banco do Brasil ampliou o uso de aplicativos móveis para atendimento aos clientes . A instituição também reforçou medidas de proteção contra fraudes .
+clientes	NOUN	0	5	13	0	O Banco do Brasil ampliou o uso de aplicativos móveis para atendimento aos clientes . A instituição também reforçou medidas de proteção contra fraudes .
+.	PUNCT	0	5	14	0	O Banco do Brasil ampliou o uso de aplicativos móveis para atendimento aos clientes . A instituição também reforçou medidas de proteção contra fraudes .
+A	DET	0	5	15	0	O Banco do Brasil ampliou o uso de aplicativos móveis para atendimento aos clientes . A instituição também reforçou medidas de proteção contra fraudes .
+instituição	NOUN	0	5	16	0	O Banco do Brasil ampliou o uso de aplicativos móveis para atendimento aos clientes . A instituição também reforçou medidas de proteção contra fraudes .
+também	ADV	0	5	17	0	O Banco do Brasil ampliou o uso de aplicativos móveis para atendimento aos clientes . A instituição também reforçou medidas de proteção contra fraudes .
+reforçou	VERB	1	5	18	0	O Banco do Brasil ampliou o uso de aplicativos móveis para atendimento aos clientes . A instituição também reforçou medidas de proteção contra fraudes .
+medidas	NOUN	0	5	19	0	O Banco do Brasil ampliou o uso de aplicativos móveis para atendimento aos clientes . A instituição também reforçou medidas de proteção contra fraudes .
+de	ADP	0	5	20	0	O Banco do Brasil ampliou o uso de aplicativos móveis para atendimento aos clientes . A instituição também reforçou medidas de proteção contra fraudes .
+proteção	NOUN	0	5	21	0	O Banco do Brasil ampliou o uso de aplicativos móveis para atendimento aos clientes . A instituição também reforçou medidas de proteção contra fraudes .
+contra	ADP	0	5	22	0	O Banco do Brasil ampliou o uso de aplicativos móveis para atendimento aos clientes . A instituição também reforçou medidas de proteção contra fraudes .
+fraudes	NOUN	1	5	23	0	O Banco do Brasil ampliou o uso de aplicativos móveis para atendimento aos clientes . A instituição também reforçou medidas de proteção contra fraudes .
+.	PUNCT	0	5	24	0	O Banco do Brasil ampliou o uso de aplicativos móveis para atendimento aos clientes . A instituição também reforçou medidas de proteção contra fraudes .
+4	['DET', 'PROPN', 'ADP', 'PROPN', 'VERB', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'ADP', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'DET', 'NOUN', 'ADV', 'VERB', 'NOUN', 'ADP', 'NOUN', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0]	5	4	1	O Banco do Brasil ampliou o uso de aplicativos móveis para atendimento aos clientes . A instituição também reforçou medidas de proteção contra fraudes .
+A	DET	0	6	0	0	A Prefeitura de Curitiba implementou uma plataforma online para serviços públicos . O sistema permite consultar documentos e solicitar atendimento pela internet .
+Prefeitura	NOUN	0	6	1	0	A Prefeitura de Curitiba implementou uma plataforma online para serviços públicos . O sistema permite consultar documentos e solicitar atendimento pela internet .
+de	ADP	0	6	2	0	A Prefeitura de Curitiba implementou uma plataforma online para serviços públicos . O sistema permite consultar documentos e solicitar atendimento pela internet .
+Curitiba	PROPN	0	6	3	0	A Prefeitura de Curitiba implementou uma plataforma online para serviços públicos . O sistema permite consultar documentos e solicitar atendimento pela internet .
+implementou	VERB	1	6	4	0	A Prefeitura de Curitiba implementou uma plataforma online para serviços públicos . O sistema permite consultar documentos e solicitar atendimento pela internet .
+uma	DET	0	6	5	0	A Prefeitura de Curitiba implementou uma plataforma online para serviços públicos . O sistema permite consultar documentos e solicitar atendimento pela internet .
+plataforma	NOUN	0	6	6	0	A Prefeitura de Curitiba implementou uma plataforma online para serviços públicos . O sistema permite consultar documentos e solicitar atendimento pela internet .
+online	ADJ	0	6	7	0	A Prefeitura de Curitiba implementou uma plataforma online para serviços públicos . O sistema permite consultar documentos e solicitar atendimento pela internet .
+para	ADP	0	6	8	0	A Prefeitura de Curitiba implementou uma plataforma online para serviços públicos . O sistema permite consultar documentos e solicitar atendimento pela internet .
+serviços	NOUN	0	6	9	0	A Prefeitura de Curitiba implementou uma plataforma online para serviços públicos . O sistema permite consultar documentos e solicitar atendimento pela internet .
+públicos	ADJ	0	6	10	0	A Prefeitura de Curitiba implementou uma plataforma online para serviços públicos . O sistema permite consultar documentos e solicitar atendimento pela internet .
+.	PUNCT	0	6	11	0	A Prefeitura de Curitiba implementou uma plataforma online para serviços públicos . O sistema permite consultar documentos e solicitar atendimento pela internet .
+O	DET	0	6	12	0	A Prefeitura de Curitiba implementou uma plataforma online para serviços públicos . O sistema permite consultar documentos e solicitar atendimento pela internet .
+sistema	NOUN	0	6	13	0	A Prefeitura de Curitiba implementou uma plataforma online para serviços públicos . O sistema permite consultar documentos e solicitar atendimento pela internet .
+permite	VERB	0	6	14	0	A Prefeitura de Curitiba implementou uma plataforma online para serviços públicos . O sistema permite consultar documentos e solicitar atendimento pela internet .
+consultar	VERB	1	6	15	0	A Prefeitura de Curitiba implementou uma plataforma online para serviços públicos . O sistema permite consultar documentos e solicitar atendimento pela internet .
+documentos	NOUN	0	6	16	0	A Prefeitura de Curitiba implementou uma plataforma online para serviços públicos . O sistema permite consultar documentos e solicitar atendimento pela internet .
+e	CCONJ	0	6	17	0	A Prefeitura de Curitiba implementou uma plataforma online para serviços públicos . O sistema permite consultar documentos e solicitar atendimento pela internet .
+solicitar	VERB	1	6	18	0	A Prefeitura de Curitiba implementou uma plataforma online para serviços públicos . O sistema permite consultar documentos e solicitar atendimento pela internet .
+atendimento	NOUN	0	6	19	0	A Prefeitura de Curitiba implementou uma plataforma online para serviços públicos . O sistema permite consultar documentos e solicitar atendimento pela internet .
+pela	ADP	0	6	20	0	A Prefeitura de Curitiba implementou uma plataforma online para serviços públicos . O sistema permite consultar documentos e solicitar atendimento pela internet .
+internet	PROPN	0	6	21	0	A Prefeitura de Curitiba implementou uma plataforma online para serviços públicos . O sistema permite consultar documentos e solicitar atendimento pela internet .
+.	PUNCT	0	6	22	0	A Prefeitura de Curitiba implementou uma plataforma online para serviços públicos . O sistema permite consultar documentos e solicitar atendimento pela internet .
+5	['DET', 'NOUN', 'ADP', 'PROPN', 'VERB', 'DET', 'NOUN', 'ADJ', 'ADP', 'NOUN', 'ADJ', 'PUNCT', 'DET', 'NOUN', 'VERB', 'VERB', 'NOUN', 'CCONJ', 'VERB', 'NOUN', 'ADP', 'PROPN', 'PUNCT']	[0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0]	6	5	1	A Prefeitura de Curitiba implementou uma plataforma online para serviços públicos . O sistema permite consultar documentos e solicitar atendimento pela internet .
+A	DET	0	7	0	0	A Amazon Web Services oferece recursos de armazenamento e processamento para empresas . Muitas organizações usam a nuvem para reduzir custos operacionais .
+Amazon	PROPN	0	7	1	0	A Amazon Web Services oferece recursos de armazenamento e processamento para empresas . Muitas organizações usam a nuvem para reduzir custos operacionais .
+Web	PROPN	0	7	2	0	A Amazon Web Services oferece recursos de armazenamento e processamento para empresas . Muitas organizações usam a nuvem para reduzir custos operacionais .
+Services	PROPN	1	7	3	0	A Amazon Web Services oferece recursos de armazenamento e processamento para empresas . Muitas organizações usam a nuvem para reduzir custos operacionais .
+oferece	VERB	0	7	4	0	A Amazon Web Services oferece recursos de armazenamento e processamento para empresas . Muitas organizações usam a nuvem para reduzir custos operacionais .
+recursos	NOUN	0	7	5	0	A Amazon Web Services oferece recursos de armazenamento e processamento para empresas . Muitas organizações usam a nuvem para reduzir custos operacionais .
+de	ADP	0	7	6	0	A Amazon Web Services oferece recursos de armazenamento e processamento para empresas . Muitas organizações usam a nuvem para reduzir custos operacionais .
+armazenamento	NOUN	0	7	7	0	A Amazon Web Services oferece recursos de armazenamento e processamento para empresas . Muitas organizações usam a nuvem para reduzir custos operacionais .
+e	CCONJ	0	7	8	0	A Amazon Web Services oferece recursos de armazenamento e processamento para empresas . Muitas organizações usam a nuvem para reduzir custos operacionais .
+processamento	NOUN	0	7	9	0	A Amazon Web Services oferece recursos de armazenamento e processamento para empresas . Muitas organizações usam a nuvem para reduzir custos operacionais .
+para	ADP	0	7	10	0	A Amazon Web Services oferece recursos de armazenamento e processamento para empresas . Muitas organizações usam a nuvem para reduzir custos operacionais .
+empresas	NOUN	0	7	11	0	A Amazon Web Services oferece recursos de armazenamento e processamento para empresas . Muitas organizações usam a nuvem para reduzir custos operacionais .
+.	PUNCT	0	7	12	0	A Amazon Web Services oferece recursos de armazenamento e processamento para empresas . Muitas organizações usam a nuvem para reduzir custos operacionais .
+Muitas	DET	0	7	13	0	A Amazon Web Services oferece recursos de armazenamento e processamento para empresas . Muitas organizações usam a nuvem para reduzir custos operacionais .
+organizações	NOUN	0	7	14	0	A Amazon Web Services oferece recursos de armazenamento e processamento para empresas . Muitas organizações usam a nuvem para reduzir custos operacionais .
+usam	VERB	0	7	15	0	A Amazon Web Services oferece recursos de armazenamento e processamento para empresas . Muitas organizações usam a nuvem para reduzir custos operacionais .
+a	DET	0	7	16	0	A Amazon Web Services oferece recursos de armazenamento e processamento para empresas . Muitas organizações usam a nuvem para reduzir custos operacionais .
+nuvem	NOUN	0	7	17	0	A Amazon Web Services oferece recursos de armazenamento e processamento para empresas . Muitas organizações usam a nuvem para reduzir custos operacionais .
+para	SCONJ	0	7	18	0	A Amazon Web Services oferece recursos de armazenamento e processamento para empresas . Muitas organizações usam a nuvem para reduzir custos operacionais .
+reduzir	VERB	0	7	19	0	A Amazon Web Services oferece recursos de armazenamento e processamento para empresas . Muitas organizações usam a nuvem para reduzir custos operacionais .
+custos	NOUN	0	7	20	0	A Amazon Web Services oferece recursos de armazenamento e processamento para empresas . Muitas organizações usam a nuvem para reduzir custos operacionais .
+operacionais	ADJ	0	7	21	0	A Amazon Web Services oferece recursos de armazenamento e processamento para empresas . Muitas organizações usam a nuvem para reduzir custos operacionais .
+.	PUNCT	0	7	22	0	A Amazon Web Services oferece recursos de armazenamento e processamento para empresas . Muitas organizações usam a nuvem para reduzir custos operacionais .
+6	['DET', 'PROPN', 'PROPN', 'PROPN', 'VERB', 'NOUN', 'ADP', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'DET', 'NOUN', 'VERB', 'DET', 'NOUN', 'SCONJ', 'VERB', 'NOUN', 'ADJ', 'PUNCT']	[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	7	6	1	A Amazon Web Services oferece recursos de armazenamento e processamento para empresas . Muitas organizações usam a nuvem para reduzir custos operacionais .
+O	DET	0	8	0	0	O Ministério da Educação divulgou dados sobre ensino a distância no Brasil . As informações mostram aumento no uso de plataformas digitais .
+Ministério	PROPN	0	8	1	0	O Ministério da Educação divulgou dados sobre ensino a distância no Brasil . As informações mostram aumento no uso de plataformas digitais .
+da	ADP	0	8	2	0	O Ministério da Educação divulgou dados sobre ensino a distância no Brasil . As informações mostram aumento no uso de plataformas digitais .
+Educação	PROPN	0	8	3	0	O Ministério da Educação divulgou dados sobre ensino a distância no Brasil . As informações mostram aumento no uso de plataformas digitais .
+divulgou	VERB	0	8	4	0	O Ministério da Educação divulgou dados sobre ensino a distância no Brasil . As informações mostram aumento no uso de plataformas digitais .
+dados	NOUN	0	8	5	0	O Ministério da Educação divulgou dados sobre ensino a distância no Brasil . As informações mostram aumento no uso de plataformas digitais .
+sobre	ADP	0	8	6	0	O Ministério da Educação divulgou dados sobre ensino a distância no Brasil . As informações mostram aumento no uso de plataformas digitais .
+ensino	NOUN	0	8	7	0	O Ministério da Educação divulgou dados sobre ensino a distância no Brasil . As informações mostram aumento no uso de plataformas digitais .
+a	DET	0	8	8	0	O Ministério da Educação divulgou dados sobre ensino a distância no Brasil . As informações mostram aumento no uso de plataformas digitais .
+distância	NOUN	0	8	9	0	O Ministério da Educação divulgou dados sobre ensino a distância no Brasil . As informações mostram aumento no uso de plataformas digitais .
+no	ADP	0	8	10	0	O Ministério da Educação divulgou dados sobre ensino a distância no Brasil . As informações mostram aumento no uso de plataformas digitais .
+Brasil	PROPN	0	8	11	0	O Ministério da Educação divulgou dados sobre ensino a distância no Brasil . As informações mostram aumento no uso de plataformas digitais .
+.	PUNCT	0	8	12	0	O Ministério da Educação divulgou dados sobre ensino a distância no Brasil . As informações mostram aumento no uso de plataformas digitais .
+As	DET	0	8	13	0	O Ministério da Educação divulgou dados sobre ensino a distância no Brasil . As informações mostram aumento no uso de plataformas digitais .
+informações	NOUN	0	8	14	0	O Ministério da Educação divulgou dados sobre ensino a distância no Brasil . As informações mostram aumento no uso de plataformas digitais .
+mostram	VERB	0	8	15	0	O Ministério da Educação divulgou dados sobre ensino a distância no Brasil . As informações mostram aumento no uso de plataformas digitais .
+aumento	NOUN	0	8	16	0	O Ministério da Educação divulgou dados sobre ensino a distância no Brasil . As informações mostram aumento no uso de plataformas digitais .
+no	ADP	0	8	17	0	O Ministério da Educação divulgou dados sobre ensino a distância no Brasil . As informações mostram aumento no uso de plataformas digitais .
+uso	NOUN	0	8	18	0	O Ministério da Educação divulgou dados sobre ensino a distância no Brasil . As informações mostram aumento no uso de plataformas digitais .
+de	ADP	0	8	19	0	O Ministério da Educação divulgou dados sobre ensino a distância no Brasil . As informações mostram aumento no uso de plataformas digitais .
+plataformas	NOUN	0	8	20	0	O Ministério da Educação divulgou dados sobre ensino a distância no Brasil . As informações mostram aumento no uso de plataformas digitais .
+digitais	ADJ	0	8	21	0	O Ministério da Educação divulgou dados sobre ensino a distância no Brasil . As informações mostram aumento no uso de plataformas digitais .
+.	PUNCT	0	8	22	0	O Ministério da Educação divulgou dados sobre ensino a distância no Brasil . As informações mostram aumento no uso de plataformas digitais .
+7	['DET', 'PROPN', 'ADP', 'PROPN', 'VERB', 'NOUN', 'ADP', 'NOUN', 'DET', 'NOUN', 'ADP', 'PROPN', 'PUNCT', 'DET', 'NOUN', 'VERB', 'NOUN', 'ADP', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	8	7	1	O Ministério da Educação divulgou dados sobre ensino a distância no Brasil . As informações mostram aumento no uso de plataformas digitais .
+A	DET	0	9	0	0	A empresa Totvs desenvolve sistemas de gestão empresarial para diferentes setores . Suas soluções são utilizadas por organizações no comércio e na indústria .
+empresa	NOUN	0	9	1	0	A empresa Totvs desenvolve sistemas de gestão empresarial para diferentes setores . Suas soluções são utilizadas por organizações no comércio e na indústria .
+Totvs	PROPN	1	9	2	0	A empresa Totvs desenvolve sistemas de gestão empresarial para diferentes setores . Suas soluções são utilizadas por organizações no comércio e na indústria .
+desenvolve	VERB	0	9	3	0	A empresa Totvs desenvolve sistemas de gestão empresarial para diferentes setores . Suas soluções são utilizadas por organizações no comércio e na indústria .
+sistemas	NOUN	0	9	4	0	A empresa Totvs desenvolve sistemas de gestão empresarial para diferentes setores . Suas soluções são utilizadas por organizações no comércio e na indústria .
+de	ADP	0	9	5	0	A empresa Totvs desenvolve sistemas de gestão empresarial para diferentes setores . Suas soluções são utilizadas por organizações no comércio e na indústria .
+gestão	NOUN	0	9	6	0	A empresa Totvs desenvolve sistemas de gestão empresarial para diferentes setores . Suas soluções são utilizadas por organizações no comércio e na indústria .
+empresarial	ADJ	0	9	7	0	A empresa Totvs desenvolve sistemas de gestão empresarial para diferentes setores . Suas soluções são utilizadas por organizações no comércio e na indústria .
+para	ADP	0	9	8	0	A empresa Totvs desenvolve sistemas de gestão empresarial para diferentes setores . Suas soluções são utilizadas por organizações no comércio e na indústria .
+diferentes	DET	0	9	9	0	A empresa Totvs desenvolve sistemas de gestão empresarial para diferentes setores . Suas soluções são utilizadas por organizações no comércio e na indústria .
+setores	NOUN	0	9	10	0	A empresa Totvs desenvolve sistemas de gestão empresarial para diferentes setores . Suas soluções são utilizadas por organizações no comércio e na indústria .
+.	PUNCT	0	9	11	0	A empresa Totvs desenvolve sistemas de gestão empresarial para diferentes setores . Suas soluções são utilizadas por organizações no comércio e na indústria .
+Suas	DET	0	9	12	0	A empresa Totvs desenvolve sistemas de gestão empresarial para diferentes setores . Suas soluções são utilizadas por organizações no comércio e na indústria .
+soluções	NOUN	0	9	13	0	A empresa Totvs desenvolve sistemas de gestão empresarial para diferentes setores . Suas soluções são utilizadas por organizações no comércio e na indústria .
+são	AUX	0	9	14	0	A empresa Totvs desenvolve sistemas de gestão empresarial para diferentes setores . Suas soluções são utilizadas por organizações no comércio e na indústria .
+utilizadas	VERB	0	9	15	0	A empresa Totvs desenvolve sistemas de gestão empresarial para diferentes setores . Suas soluções são utilizadas por organizações no comércio e na indústria .
+por	ADP	0	9	16	0	A empresa Totvs desenvolve sistemas de gestão empresarial para diferentes setores . Suas soluções são utilizadas por organizações no comércio e na indústria .
+organizações	NOUN	0	9	17	0	A empresa Totvs desenvolve sistemas de gestão empresarial para diferentes setores . Suas soluções são utilizadas por organizações no comércio e na indústria .
+no	ADP	0	9	18	0	A empresa Totvs desenvolve sistemas de gestão empresarial para diferentes setores . Suas soluções são utilizadas por organizações no comércio e na indústria .
+comércio	NOUN	0	9	19	0	A empresa Totvs desenvolve sistemas de gestão empresarial para diferentes setores . Suas soluções são utilizadas por organizações no comércio e na indústria .
+e	CCONJ	0	9	20	0	A empresa Totvs desenvolve sistemas de gestão empresarial para diferentes setores . Suas soluções são utilizadas por organizações no comércio e na indústria .
+na	ADP	0	9	21	0	A empresa Totvs desenvolve sistemas de gestão empresarial para diferentes setores . Suas soluções são utilizadas por organizações no comércio e na indústria .
+indústria	NOUN	0	9	22	0	A empresa Totvs desenvolve sistemas de gestão empresarial para diferentes setores . Suas soluções são utilizadas por organizações no comércio e na indústria .
+.	PUNCT	0	9	23	0	A empresa Totvs desenvolve sistemas de gestão empresarial para diferentes setores . Suas soluções são utilizadas por organizações no comércio e na indústria .
+8	['DET', 'NOUN', 'PROPN', 'VERB', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'ADP', 'DET', 'NOUN', 'PUNCT', 'DET', 'NOUN', 'AUX', 'VERB', 'ADP', 'NOUN', 'ADP', 'NOUN', 'CCONJ', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	9	8	1	A empresa Totvs desenvolve sistemas de gestão empresarial para diferentes setores . Suas soluções são utilizadas por organizações no comércio e na indústria .
+A	DET	0	10	0	0	A Oracle oferece bancos de dados utilizados por empresas de grande porte . Esses sistemas armazenam informações financeiras , comerciais e administrativas .
+Oracle	PROPN	1	10	1	0	A Oracle oferece bancos de dados utilizados por empresas de grande porte . Esses sistemas armazenam informações financeiras , comerciais e administrativas .
+oferece	VERB	0	10	2	0	A Oracle oferece bancos de dados utilizados por empresas de grande porte . Esses sistemas armazenam informações financeiras , comerciais e administrativas .
+bancos	NOUN	0	10	3	0	A Oracle oferece bancos de dados utilizados por empresas de grande porte . Esses sistemas armazenam informações financeiras , comerciais e administrativas .
+de	ADP	0	10	4	0	A Oracle oferece bancos de dados utilizados por empresas de grande porte . Esses sistemas armazenam informações financeiras , comerciais e administrativas .
+dados	NOUN	0	10	5	0	A Oracle oferece bancos de dados utilizados por empresas de grande porte . Esses sistemas armazenam informações financeiras , comerciais e administrativas .
+utilizados	VERB	0	10	6	0	A Oracle oferece bancos de dados utilizados por empresas de grande porte . Esses sistemas armazenam informações financeiras , comerciais e administrativas .
+por	ADP	0	10	7	0	A Oracle oferece bancos de dados utilizados por empresas de grande porte . Esses sistemas armazenam informações financeiras , comerciais e administrativas .
+empresas	NOUN	0	10	8	0	A Oracle oferece bancos de dados utilizados por empresas de grande porte . Esses sistemas armazenam informações financeiras , comerciais e administrativas .
+de	ADP	0	10	9	0	A Oracle oferece bancos de dados utilizados por empresas de grande porte . Esses sistemas armazenam informações financeiras , comerciais e administrativas .
+grande	ADJ	0	10	10	0	A Oracle oferece bancos de dados utilizados por empresas de grande porte . Esses sistemas armazenam informações financeiras , comerciais e administrativas .
+porte	NOUN	0	10	11	0	A Oracle oferece bancos de dados utilizados por empresas de grande porte . Esses sistemas armazenam informações financeiras , comerciais e administrativas .
+.	PUNCT	0	10	12	0	A Oracle oferece bancos de dados utilizados por empresas de grande porte . Esses sistemas armazenam informações financeiras , comerciais e administrativas .
+Esses	DET	0	10	13	0	A Oracle oferece bancos de dados utilizados por empresas de grande porte . Esses sistemas armazenam informações financeiras , comerciais e administrativas .
+sistemas	NOUN	0	10	14	0	A Oracle oferece bancos de dados utilizados por empresas de grande porte . Esses sistemas armazenam informações financeiras , comerciais e administrativas .
+armazenam	VERB	1	10	15	0	A Oracle oferece bancos de dados utilizados por empresas de grande porte . Esses sistemas armazenam informações financeiras , comerciais e administrativas .
+informações	NOUN	0	10	16	0	A Oracle oferece bancos de dados utilizados por empresas de grande porte . Esses sistemas armazenam informações financeiras , comerciais e administrativas .
+financeiras	ADJ	0	10	17	0	A Oracle oferece bancos de dados utilizados por empresas de grande porte . Esses sistemas armazenam informações financeiras , comerciais e administrativas .
+,	PUNCT	0	10	18	0	A Oracle oferece bancos de dados utilizados por empresas de grande porte . Esses sistemas armazenam informações financeiras , comerciais e administrativas .
+comerciais	ADJ	0	10	19	0	A Oracle oferece bancos de dados utilizados por empresas de grande porte . Esses sistemas armazenam informações financeiras , comerciais e administrativas .
+e	CCONJ	0	10	20	0	A Oracle oferece bancos de dados utilizados por empresas de grande porte . Esses sistemas armazenam informações financeiras , comerciais e administrativas .
+administrativas	ADJ	0	10	21	0	A Oracle oferece bancos de dados utilizados por empresas de grande porte . Esses sistemas armazenam informações financeiras , comerciais e administrativas .
+.	PUNCT	0	10	22	0	A Oracle oferece bancos de dados utilizados por empresas de grande porte . Esses sistemas armazenam informações financeiras , comerciais e administrativas .
+9	['DET', 'PROPN', 'VERB', 'NOUN', 'ADP', 'NOUN', 'VERB', 'ADP', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'PUNCT', 'DET', 'NOUN', 'VERB', 'NOUN', 'ADJ', 'PUNCT', 'ADJ', 'CCONJ', 'ADJ', 'PUNCT']	[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]	10	9	1	A Oracle oferece bancos de dados utilizados por empresas de grande porte . Esses sistemas armazenam informações financeiras , comerciais e administrativas .
+A	DET	0	11	0	0	A IBM realizou um evento sobre segurança cibernética em Brasília . Especialistas discutiram riscos , privacidade e proteção de dados .
+IBM	PROPN	0	11	1	0	A IBM realizou um evento sobre segurança cibernética em Brasília . Especialistas discutiram riscos , privacidade e proteção de dados .
+realizou	VERB	0	11	2	0	A IBM realizou um evento sobre segurança cibernética em Brasília . Especialistas discutiram riscos , privacidade e proteção de dados .
+um	DET	0	11	3	0	A IBM realizou um evento sobre segurança cibernética em Brasília . Especialistas discutiram riscos , privacidade e proteção de dados .
+evento	NOUN	0	11	4	0	A IBM realizou um evento sobre segurança cibernética em Brasília . Especialistas discutiram riscos , privacidade e proteção de dados .
+sobre	ADP	0	11	5	0	A IBM realizou um evento sobre segurança cibernética em Brasília . Especialistas discutiram riscos , privacidade e proteção de dados .
+segurança	NOUN	0	11	6	0	A IBM realizou um evento sobre segurança cibernética em Brasília . Especialistas discutiram riscos , privacidade e proteção de dados .
+cibernética	ADJ	1	11	7	0	A IBM realizou um evento sobre segurança cibernética em Brasília . Especialistas discutiram riscos , privacidade e proteção de dados .
+em	ADP	0	11	8	0	A IBM realizou um evento sobre segurança cibernética em Brasília . Especialistas discutiram riscos , privacidade e proteção de dados .
+Brasília	PROPN	0	11	9	0	A IBM realizou um evento sobre segurança cibernética em Brasília . Especialistas discutiram riscos , privacidade e proteção de dados .
+.	PUNCT	0	11	10	0	A IBM realizou um evento sobre segurança cibernética em Brasília . Especialistas discutiram riscos , privacidade e proteção de dados .
+Especialistas	NOUN	1	11	11	0	A IBM realizou um evento sobre segurança cibernética em Brasília . Especialistas discutiram riscos , privacidade e proteção de dados .
+discutiram	VERB	1	11	12	0	A IBM realizou um evento sobre segurança cibernética em Brasília . Especialistas discutiram riscos , privacidade e proteção de dados .
+riscos	NOUN	0	11	13	0	A IBM realizou um evento sobre segurança cibernética em Brasília . Especialistas discutiram riscos , privacidade e proteção de dados .
+,	PUNCT	0	11	14	0	A IBM realizou um evento sobre segurança cibernética em Brasília . Especialistas discutiram riscos , privacidade e proteção de dados .
+privacidade	NOUN	1	11	15	0	A IBM realizou um evento sobre segurança cibernética em Brasília . Especialistas discutiram riscos , privacidade e proteção de dados .
+e	CCONJ	0	11	16	0	A IBM realizou um evento sobre segurança cibernética em Brasília . Especialistas discutiram riscos , privacidade e proteção de dados .
+proteção	NOUN	0	11	17	0	A IBM realizou um evento sobre segurança cibernética em Brasília . Especialistas discutiram riscos , privacidade e proteção de dados .
+de	ADP	0	11	18	0	A IBM realizou um evento sobre segurança cibernética em Brasília . Especialistas discutiram riscos , privacidade e proteção de dados .
+dados	NOUN	0	11	19	0	A IBM realizou um evento sobre segurança cibernética em Brasília . Especialistas discutiram riscos , privacidade e proteção de dados .
+.	PUNCT	0	11	20	0	A IBM realizou um evento sobre segurança cibernética em Brasília . Especialistas discutiram riscos , privacidade e proteção de dados .
+10	['DET', 'PROPN', 'VERB', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'ADP', 'PROPN', 'PUNCT', 'NOUN', 'VERB', 'NOUN', 'PUNCT', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0]	11	10	1	A IBM realizou um evento sobre segurança cibernética em Brasília . Especialistas discutiram riscos , privacidade e proteção de dados .
+A	DET	0	12	0	0	A Meta atualizou recursos de privacidade no WhatsApp e no Instagram . As mudanças foram apresentadas como forma de aumentar o controle dos usuários .
+Meta	NOUN	0	12	1	0	A Meta atualizou recursos de privacidade no WhatsApp e no Instagram . As mudanças foram apresentadas como forma de aumentar o controle dos usuários .
+atualizou	VERB	1	12	2	0	A Meta atualizou recursos de privacidade no WhatsApp e no Instagram . As mudanças foram apresentadas como forma de aumentar o controle dos usuários .
+recursos	NOUN	0	12	3	0	A Meta atualizou recursos de privacidade no WhatsApp e no Instagram . As mudanças foram apresentadas como forma de aumentar o controle dos usuários .
+de	ADP	0	12	4	0	A Meta atualizou recursos de privacidade no WhatsApp e no Instagram . As mudanças foram apresentadas como forma de aumentar o controle dos usuários .
+privacidade	NOUN	1	12	5	0	A Meta atualizou recursos de privacidade no WhatsApp e no Instagram . As mudanças foram apresentadas como forma de aumentar o controle dos usuários .
+no	ADP	0	12	6	0	A Meta atualizou recursos de privacidade no WhatsApp e no Instagram . As mudanças foram apresentadas como forma de aumentar o controle dos usuários .
+WhatsApp	PROPN	1	12	7	0	A Meta atualizou recursos de privacidade no WhatsApp e no Instagram . As mudanças foram apresentadas como forma de aumentar o controle dos usuários .
+e	CCONJ	0	12	8	0	A Meta atualizou recursos de privacidade no WhatsApp e no Instagram . As mudanças foram apresentadas como forma de aumentar o controle dos usuários .
+no	ADP	0	12	9	0	A Meta atualizou recursos de privacidade no WhatsApp e no Instagram . As mudanças foram apresentadas como forma de aumentar o controle dos usuários .
+Instagram	PROPN	1	12	10	0	A Meta atualizou recursos de privacidade no WhatsApp e no Instagram . As mudanças foram apresentadas como forma de aumentar o controle dos usuários .
+.	PUNCT	0	12	11	0	A Meta atualizou recursos de privacidade no WhatsApp e no Instagram . As mudanças foram apresentadas como forma de aumentar o controle dos usuários .
+As	DET	0	12	12	0	A Meta atualizou recursos de privacidade no WhatsApp e no Instagram . As mudanças foram apresentadas como forma de aumentar o controle dos usuários .
+mudanças	NOUN	0	12	13	0	A Meta atualizou recursos de privacidade no WhatsApp e no Instagram . As mudanças foram apresentadas como forma de aumentar o controle dos usuários .
+foram	AUX	0	12	14	0	A Meta atualizou recursos de privacidade no WhatsApp e no Instagram . As mudanças foram apresentadas como forma de aumentar o controle dos usuários .
+apresentadas	VERB	0	12	15	0	A Meta atualizou recursos de privacidade no WhatsApp e no Instagram . As mudanças foram apresentadas como forma de aumentar o controle dos usuários .
+como	ADP	0	12	16	0	A Meta atualizou recursos de privacidade no WhatsApp e no Instagram . As mudanças foram apresentadas como forma de aumentar o controle dos usuários .
+forma	NOUN	0	12	17	0	A Meta atualizou recursos de privacidade no WhatsApp e no Instagram . As mudanças foram apresentadas como forma de aumentar o controle dos usuários .
+de	SCONJ	0	12	18	0	A Meta atualizou recursos de privacidade no WhatsApp e no Instagram . As mudanças foram apresentadas como forma de aumentar o controle dos usuários .
+aumentar	VERB	0	12	19	0	A Meta atualizou recursos de privacidade no WhatsApp e no Instagram . As mudanças foram apresentadas como forma de aumentar o controle dos usuários .
+o	DET	0	12	20	0	A Meta atualizou recursos de privacidade no WhatsApp e no Instagram . As mudanças foram apresentadas como forma de aumentar o controle dos usuários .
+controle	NOUN	0	12	21	0	A Meta atualizou recursos de privacidade no WhatsApp e no Instagram . As mudanças foram apresentadas como forma de aumentar o controle dos usuários .
+dos	ADP	0	12	22	0	A Meta atualizou recursos de privacidade no WhatsApp e no Instagram . As mudanças foram apresentadas como forma de aumentar o controle dos usuários .
+usuários	NOUN	0	12	23	0	A Meta atualizou recursos de privacidade no WhatsApp e no Instagram . As mudanças foram apresentadas como forma de aumentar o controle dos usuários .
+.	PUNCT	0	12	24	0	A Meta atualizou recursos de privacidade no WhatsApp e no Instagram . As mudanças foram apresentadas como forma de aumentar o controle dos usuários .
+11	['DET', 'NOUN', 'VERB', 'NOUN', 'ADP', 'NOUN', 'ADP', 'PROPN', 'CCONJ', 'ADP', 'PROPN', 'PUNCT', 'DET', 'NOUN', 'AUX', 'VERB', 'ADP', 'NOUN', 'SCONJ', 'VERB', 'DET', 'NOUN', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 1, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	12	11	1	A Meta atualizou recursos de privacidade no WhatsApp e no Instagram . As mudanças foram apresentadas como forma de aumentar o controle dos usuários .
+A	DET	0	13	0	0	A Receita Federal utiliza sistemas digitais para processar informações fiscais . Esses sistemas ajudam no controle de declarações e pagamentos .
+Receita	PROPN	1	13	1	0	A Receita Federal utiliza sistemas digitais para processar informações fiscais . Esses sistemas ajudam no controle de declarações e pagamentos .
+Federal	PROPN	0	13	2	0	A Receita Federal utiliza sistemas digitais para processar informações fiscais . Esses sistemas ajudam no controle de declarações e pagamentos .
+utiliza	VERB	0	13	3	0	A Receita Federal utiliza sistemas digitais para processar informações fiscais . Esses sistemas ajudam no controle de declarações e pagamentos .
+sistemas	NOUN	0	13	4	0	A Receita Federal utiliza sistemas digitais para processar informações fiscais . Esses sistemas ajudam no controle de declarações e pagamentos .
+digitais	ADJ	0	13	5	0	A Receita Federal utiliza sistemas digitais para processar informações fiscais . Esses sistemas ajudam no controle de declarações e pagamentos .
+para	SCONJ	0	13	6	0	A Receita Federal utiliza sistemas digitais para processar informações fiscais . Esses sistemas ajudam no controle de declarações e pagamentos .
+processar	VERB	1	13	7	0	A Receita Federal utiliza sistemas digitais para processar informações fiscais . Esses sistemas ajudam no controle de declarações e pagamentos .
+informações	NOUN	0	13	8	0	A Receita Federal utiliza sistemas digitais para processar informações fiscais . Esses sistemas ajudam no controle de declarações e pagamentos .
+fiscais	ADJ	0	13	9	0	A Receita Federal utiliza sistemas digitais para processar informações fiscais . Esses sistemas ajudam no controle de declarações e pagamentos .
+.	PUNCT	0	13	10	0	A Receita Federal utiliza sistemas digitais para processar informações fiscais . Esses sistemas ajudam no controle de declarações e pagamentos .
+Esses	DET	0	13	11	0	A Receita Federal utiliza sistemas digitais para processar informações fiscais . Esses sistemas ajudam no controle de declarações e pagamentos .
+sistemas	NOUN	0	13	12	0	A Receita Federal utiliza sistemas digitais para processar informações fiscais . Esses sistemas ajudam no controle de declarações e pagamentos .
+ajudam	VERB	0	13	13	0	A Receita Federal utiliza sistemas digitais para processar informações fiscais . Esses sistemas ajudam no controle de declarações e pagamentos .
+no	ADP	0	13	14	0	A Receita Federal utiliza sistemas digitais para processar informações fiscais . Esses sistemas ajudam no controle de declarações e pagamentos .
+controle	NOUN	0	13	15	0	A Receita Federal utiliza sistemas digitais para processar informações fiscais . Esses sistemas ajudam no controle de declarações e pagamentos .
+de	ADP	0	13	16	0	A Receita Federal utiliza sistemas digitais para processar informações fiscais . Esses sistemas ajudam no controle de declarações e pagamentos .
+declarações	NOUN	0	13	17	0	A Receita Federal utiliza sistemas digitais para processar informações fiscais . Esses sistemas ajudam no controle de declarações e pagamentos .
+e	CCONJ	0	13	18	0	A Receita Federal utiliza sistemas digitais para processar informações fiscais . Esses sistemas ajudam no controle de declarações e pagamentos .
+pagamentos	NOUN	0	13	19	0	A Receita Federal utiliza sistemas digitais para processar informações fiscais . Esses sistemas ajudam no controle de declarações e pagamentos .
+.	PUNCT	0	13	20	0	A Receita Federal utiliza sistemas digitais para processar informações fiscais . Esses sistemas ajudam no controle de declarações e pagamentos .
+12	['DET', 'PROPN', 'PROPN', 'VERB', 'NOUN', 'ADJ', 'SCONJ', 'VERB', 'NOUN', 'ADJ', 'PUNCT', 'DET', 'NOUN', 'VERB', 'ADP', 'NOUN', 'ADP', 'NOUN', 'CCONJ', 'NOUN', 'PUNCT']	[0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	13	12	1	A Receita Federal utiliza sistemas digitais para processar informações fiscais . Esses sistemas ajudam no controle de declarações e pagamentos .
+A	DET	0	14	0	0	A Samsung apresentou novos dispositivos móveis durante um evento em Seul . A empresa destacou melhorias em câmeras e desempenho .
+Samsung	PROPN	1	14	1	0	A Samsung apresentou novos dispositivos móveis durante um evento em Seul . A empresa destacou melhorias em câmeras e desempenho .
+apresentou	VERB	0	14	2	0	A Samsung apresentou novos dispositivos móveis durante um evento em Seul . A empresa destacou melhorias em câmeras e desempenho .
+novos	ADJ	0	14	3	0	A Samsung apresentou novos dispositivos móveis durante um evento em Seul . A empresa destacou melhorias em câmeras e desempenho .
+dispositivos	NOUN	0	14	4	0	A Samsung apresentou novos dispositivos móveis durante um evento em Seul . A empresa destacou melhorias em câmeras e desempenho .
+móveis	ADJ	0	14	5	0	A Samsung apresentou novos dispositivos móveis durante um evento em Seul . A empresa destacou melhorias em câmeras e desempenho .
+durante	ADP	0	14	6	0	A Samsung apresentou novos dispositivos móveis durante um evento em Seul . A empresa destacou melhorias em câmeras e desempenho .
+um	DET	0	14	7	0	A Samsung apresentou novos dispositivos móveis durante um evento em Seul . A empresa destacou melhorias em câmeras e desempenho .
+evento	NOUN	0	14	8	0	A Samsung apresentou novos dispositivos móveis durante um evento em Seul . A empresa destacou melhorias em câmeras e desempenho .
+em	ADP	0	14	9	0	A Samsung apresentou novos dispositivos móveis durante um evento em Seul . A empresa destacou melhorias em câmeras e desempenho .
+Seul	PROPN	0	14	10	0	A Samsung apresentou novos dispositivos móveis durante um evento em Seul . A empresa destacou melhorias em câmeras e desempenho .
+.	PUNCT	0	14	11	0	A Samsung apresentou novos dispositivos móveis durante um evento em Seul . A empresa destacou melhorias em câmeras e desempenho .
+A	DET	0	14	12	0	A Samsung apresentou novos dispositivos móveis durante um evento em Seul . A empresa destacou melhorias em câmeras e desempenho .
+empresa	NOUN	0	14	13	0	A Samsung apresentou novos dispositivos móveis durante um evento em Seul . A empresa destacou melhorias em câmeras e desempenho .
+destacou	VERB	0	14	14	0	A Samsung apresentou novos dispositivos móveis durante um evento em Seul . A empresa destacou melhorias em câmeras e desempenho .
+melhorias	NOUN	0	14	15	0	A Samsung apresentou novos dispositivos móveis durante um evento em Seul . A empresa destacou melhorias em câmeras e desempenho .
+em	ADP	0	14	16	0	A Samsung apresentou novos dispositivos móveis durante um evento em Seul . A empresa destacou melhorias em câmeras e desempenho .
+câmeras	NOUN	0	14	17	0	A Samsung apresentou novos dispositivos móveis durante um evento em Seul . A empresa destacou melhorias em câmeras e desempenho .
+e	CCONJ	0	14	18	0	A Samsung apresentou novos dispositivos móveis durante um evento em Seul . A empresa destacou melhorias em câmeras e desempenho .
+desempenho	NOUN	0	14	19	0	A Samsung apresentou novos dispositivos móveis durante um evento em Seul . A empresa destacou melhorias em câmeras e desempenho .
+.	PUNCT	0	14	20	0	A Samsung apresentou novos dispositivos móveis durante um evento em Seul . A empresa destacou melhorias em câmeras e desempenho .
+13	['DET', 'PROPN', 'VERB', 'ADJ', 'NOUN', 'ADJ', 'ADP', 'DET', 'NOUN', 'ADP', 'PROPN', 'PUNCT', 'DET', 'NOUN', 'VERB', 'NOUN', 'ADP', 'NOUN', 'CCONJ', 'NOUN', 'PUNCT']	[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	14	13	1	A Samsung apresentou novos dispositivos móveis durante um evento em Seul . A empresa destacou melhorias em câmeras e desempenho .
+A	DET	0	15	0	0	A Apple anunciou atualizações para o iPhone durante uma apresentação na Califórnia . A empresa também comentou avanços em inteligência artificial .
+Apple	PROPN	0	15	1	0	A Apple anunciou atualizações para o iPhone durante uma apresentação na Califórnia . A empresa também comentou avanços em inteligência artificial .
+anunciou	VERB	0	15	2	0	A Apple anunciou atualizações para o iPhone durante uma apresentação na Califórnia . A empresa também comentou avanços em inteligência artificial .
+atualizações	NOUN	1	15	3	0	A Apple anunciou atualizações para o iPhone durante uma apresentação na Califórnia . A empresa também comentou avanços em inteligência artificial .
+para	ADP	0	15	4	0	A Apple anunciou atualizações para o iPhone durante uma apresentação na Califórnia . A empresa também comentou avanços em inteligência artificial .
+o	DET	0	15	5	0	A Apple anunciou atualizações para o iPhone durante uma apresentação na Califórnia . A empresa também comentou avanços em inteligência artificial .
+iPhone	NOUN	1	15	6	0	A Apple anunciou atualizações para o iPhone durante uma apresentação na Califórnia . A empresa também comentou avanços em inteligência artificial .
+durante	ADP	0	15	7	0	A Apple anunciou atualizações para o iPhone durante uma apresentação na Califórnia . A empresa também comentou avanços em inteligência artificial .
+uma	DET	0	15	8	0	A Apple anunciou atualizações para o iPhone durante uma apresentação na Califórnia . A empresa também comentou avanços em inteligência artificial .
+apresentação	NOUN	0	15	9	0	A Apple anunciou atualizações para o iPhone durante uma apresentação na Califórnia . A empresa também comentou avanços em inteligência artificial .
+na	ADP	0	15	10	0	A Apple anunciou atualizações para o iPhone durante uma apresentação na Califórnia . A empresa também comentou avanços em inteligência artificial .
+Califórnia	PROPN	0	15	11	0	A Apple anunciou atualizações para o iPhone durante uma apresentação na Califórnia . A empresa também comentou avanços em inteligência artificial .
+.	PUNCT	0	15	12	0	A Apple anunciou atualizações para o iPhone durante uma apresentação na Califórnia . A empresa também comentou avanços em inteligência artificial .
+A	DET	0	15	13	0	A Apple anunciou atualizações para o iPhone durante uma apresentação na Califórnia . A empresa também comentou avanços em inteligência artificial .
+empresa	NOUN	0	15	14	0	A Apple anunciou atualizações para o iPhone durante uma apresentação na Califórnia . A empresa também comentou avanços em inteligência artificial .
+também	ADV	0	15	15	0	A Apple anunciou atualizações para o iPhone durante uma apresentação na Califórnia . A empresa também comentou avanços em inteligência artificial .
+comentou	VERB	0	15	16	0	A Apple anunciou atualizações para o iPhone durante uma apresentação na Califórnia . A empresa também comentou avanços em inteligência artificial .
+avanços	NOUN	0	15	17	0	A Apple anunciou atualizações para o iPhone durante uma apresentação na Califórnia . A empresa também comentou avanços em inteligência artificial .
+em	ADP	0	15	18	0	A Apple anunciou atualizações para o iPhone durante uma apresentação na Califórnia . A empresa também comentou avanços em inteligência artificial .
+inteligência	NOUN	0	15	19	0	A Apple anunciou atualizações para o iPhone durante uma apresentação na Califórnia . A empresa também comentou avanços em inteligência artificial .
+artificial	ADJ	0	15	20	0	A Apple anunciou atualizações para o iPhone durante uma apresentação na Califórnia . A empresa também comentou avanços em inteligência artificial .
+.	PUNCT	0	15	21	0	A Apple anunciou atualizações para o iPhone durante uma apresentação na Califórnia . A empresa também comentou avanços em inteligência artificial .
+14	['DET', 'PROPN', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'PROPN', 'PUNCT', 'DET', 'NOUN', 'ADV', 'VERB', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'PUNCT']	[0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	15	14	1	A Apple anunciou atualizações para o iPhone durante uma apresentação na Califórnia . A empresa também comentou avanços em inteligência artificial .
+A	DET	0	16	0	0	A Fundação Getulio Vargas publicou uma análise sobre transformação digital . O relatório avaliou o impacto da tecnologia nas empresas brasileiras .
+Fundação	PROPN	0	16	1	0	A Fundação Getulio Vargas publicou uma análise sobre transformação digital . O relatório avaliou o impacto da tecnologia nas empresas brasileiras .
+Getulio	PROPN	1	16	2	0	A Fundação Getulio Vargas publicou uma análise sobre transformação digital . O relatório avaliou o impacto da tecnologia nas empresas brasileiras .
+Vargas	PROPN	0	16	3	0	A Fundação Getulio Vargas publicou uma análise sobre transformação digital . O relatório avaliou o impacto da tecnologia nas empresas brasileiras .
+publicou	VERB	0	16	4	0	A Fundação Getulio Vargas publicou uma análise sobre transformação digital . O relatório avaliou o impacto da tecnologia nas empresas brasileiras .
+uma	DET	0	16	5	0	A Fundação Getulio Vargas publicou uma análise sobre transformação digital . O relatório avaliou o impacto da tecnologia nas empresas brasileiras .
+análise	NOUN	0	16	6	0	A Fundação Getulio Vargas publicou uma análise sobre transformação digital . O relatório avaliou o impacto da tecnologia nas empresas brasileiras .
+sobre	ADP	0	16	7	0	A Fundação Getulio Vargas publicou uma análise sobre transformação digital . O relatório avaliou o impacto da tecnologia nas empresas brasileiras .
+transformação	NOUN	0	16	8	0	A Fundação Getulio Vargas publicou uma análise sobre transformação digital . O relatório avaliou o impacto da tecnologia nas empresas brasileiras .
+digital	ADJ	0	16	9	0	A Fundação Getulio Vargas publicou uma análise sobre transformação digital . O relatório avaliou o impacto da tecnologia nas empresas brasileiras .
+.	PUNCT	0	16	10	0	A Fundação Getulio Vargas publicou uma análise sobre transformação digital . O relatório avaliou o impacto da tecnologia nas empresas brasileiras .
+O	DET	0	16	11	0	A Fundação Getulio Vargas publicou uma análise sobre transformação digital . O relatório avaliou o impacto da tecnologia nas empresas brasileiras .
+relatório	NOUN	0	16	12	0	A Fundação Getulio Vargas publicou uma análise sobre transformação digital . O relatório avaliou o impacto da tecnologia nas empresas brasileiras .
+avaliou	VERB	1	16	13	0	A Fundação Getulio Vargas publicou uma análise sobre transformação digital . O relatório avaliou o impacto da tecnologia nas empresas brasileiras .
+o	DET	0	16	14	0	A Fundação Getulio Vargas publicou uma análise sobre transformação digital . O relatório avaliou o impacto da tecnologia nas empresas brasileiras .
+impacto	NOUN	0	16	15	0	A Fundação Getulio Vargas publicou uma análise sobre transformação digital . O relatório avaliou o impacto da tecnologia nas empresas brasileiras .
+da	ADP	0	16	16	0	A Fundação Getulio Vargas publicou uma análise sobre transformação digital . O relatório avaliou o impacto da tecnologia nas empresas brasileiras .
+tecnologia	NOUN	0	16	17	0	A Fundação Getulio Vargas publicou uma análise sobre transformação digital . O relatório avaliou o impacto da tecnologia nas empresas brasileiras .
+nas	ADP	0	16	18	0	A Fundação Getulio Vargas publicou uma análise sobre transformação digital . O relatório avaliou o impacto da tecnologia nas empresas brasileiras .
+empresas	NOUN	0	16	19	0	A Fundação Getulio Vargas publicou uma análise sobre transformação digital . O relatório avaliou o impacto da tecnologia nas empresas brasileiras .
+brasileiras	ADJ	0	16	20	0	A Fundação Getulio Vargas publicou uma análise sobre transformação digital . O relatório avaliou o impacto da tecnologia nas empresas brasileiras .
+.	PUNCT	0	16	21	0	A Fundação Getulio Vargas publicou uma análise sobre transformação digital . O relatório avaliou o impacto da tecnologia nas empresas brasileiras .
+15	['DET', 'PROPN', 'PROPN', 'PROPN', 'VERB', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'PUNCT', 'DET', 'NOUN', 'VERB', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'PUNCT']	[0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]	16	15	1	A Fundação Getulio Vargas publicou uma análise sobre transformação digital . O relatório avaliou o impacto da tecnologia nas empresas brasileiras .
+A	DET	0	17	0	0	A Embraer usa tecnologia para desenvolver aeronaves e melhorar processos de engenharia . A empresa brasileira atua no mercado internacional .
+Embraer	PROPN	1	17	1	0	A Embraer usa tecnologia para desenvolver aeronaves e melhorar processos de engenharia . A empresa brasileira atua no mercado internacional .
+usa	VERB	0	17	2	0	A Embraer usa tecnologia para desenvolver aeronaves e melhorar processos de engenharia . A empresa brasileira atua no mercado internacional .
+tecnologia	NOUN	0	17	3	0	A Embraer usa tecnologia para desenvolver aeronaves e melhorar processos de engenharia . A empresa brasileira atua no mercado internacional .
+para	SCONJ	0	17	4	0	A Embraer usa tecnologia para desenvolver aeronaves e melhorar processos de engenharia . A empresa brasileira atua no mercado internacional .
+desenvolver	VERB	0	17	5	0	A Embraer usa tecnologia para desenvolver aeronaves e melhorar processos de engenharia . A empresa brasileira atua no mercado internacional .
+aeronaves	NOUN	0	17	6	0	A Embraer usa tecnologia para desenvolver aeronaves e melhorar processos de engenharia . A empresa brasileira atua no mercado internacional .
+e	CCONJ	0	17	7	0	A Embraer usa tecnologia para desenvolver aeronaves e melhorar processos de engenharia . A empresa brasileira atua no mercado internacional .
+melhorar	VERB	0	17	8	0	A Embraer usa tecnologia para desenvolver aeronaves e melhorar processos de engenharia . A empresa brasileira atua no mercado internacional .
+processos	NOUN	0	17	9	0	A Embraer usa tecnologia para desenvolver aeronaves e melhorar processos de engenharia . A empresa brasileira atua no mercado internacional .
+de	ADP	0	17	10	0	A Embraer usa tecnologia para desenvolver aeronaves e melhorar processos de engenharia . A empresa brasileira atua no mercado internacional .
+engenharia	NOUN	0	17	11	0	A Embraer usa tecnologia para desenvolver aeronaves e melhorar processos de engenharia . A empresa brasileira atua no mercado internacional .
+.	PUNCT	0	17	12	0	A Embraer usa tecnologia para desenvolver aeronaves e melhorar processos de engenharia . A empresa brasileira atua no mercado internacional .
+A	DET	0	17	13	0	A Embraer usa tecnologia para desenvolver aeronaves e melhorar processos de engenharia . A empresa brasileira atua no mercado internacional .
+empresa	NOUN	0	17	14	0	A Embraer usa tecnologia para desenvolver aeronaves e melhorar processos de engenharia . A empresa brasileira atua no mercado internacional .
+brasileira	ADJ	0	17	15	0	A Embraer usa tecnologia para desenvolver aeronaves e melhorar processos de engenharia . A empresa brasileira atua no mercado internacional .
+atua	VERB	0	17	16	0	A Embraer usa tecnologia para desenvolver aeronaves e melhorar processos de engenharia . A empresa brasileira atua no mercado internacional .
+no	ADP	0	17	17	0	A Embraer usa tecnologia para desenvolver aeronaves e melhorar processos de engenharia . A empresa brasileira atua no mercado internacional .
+mercado	NOUN	0	17	18	0	A Embraer usa tecnologia para desenvolver aeronaves e melhorar processos de engenharia . A empresa brasileira atua no mercado internacional .
+internacional	ADJ	0	17	19	0	A Embraer usa tecnologia para desenvolver aeronaves e melhorar processos de engenharia . A empresa brasileira atua no mercado internacional .
+.	PUNCT	0	17	20	0	A Embraer usa tecnologia para desenvolver aeronaves e melhorar processos de engenharia . A empresa brasileira atua no mercado internacional .
+16	['DET', 'PROPN', 'VERB', 'NOUN', 'SCONJ', 'VERB', 'NOUN', 'CCONJ', 'VERB', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'DET', 'NOUN', 'ADJ', 'VERB', 'ADP', 'NOUN', 'ADJ', 'PUNCT']	[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	17	16	1	A Embraer usa tecnologia para desenvolver aeronaves e melhorar processos de engenharia . A empresa brasileira atua no mercado internacional .
+A	DET	0	18	0	0	A Universidade Federal do Paraná iniciou um projeto sobre análise de textos . O grupo de pesquisa utiliza Python e bibliotecas de processamento de linguagem natural .
+Universidade	PROPN	0	18	1	0	A Universidade Federal do Paraná iniciou um projeto sobre análise de textos . O grupo de pesquisa utiliza Python e bibliotecas de processamento de linguagem natural .
+Federal	PROPN	0	18	2	0	A Universidade Federal do Paraná iniciou um projeto sobre análise de textos . O grupo de pesquisa utiliza Python e bibliotecas de processamento de linguagem natural .
+do	ADP	0	18	3	0	A Universidade Federal do Paraná iniciou um projeto sobre análise de textos . O grupo de pesquisa utiliza Python e bibliotecas de processamento de linguagem natural .
+Paraná	PROPN	0	18	4	0	A Universidade Federal do Paraná iniciou um projeto sobre análise de textos . O grupo de pesquisa utiliza Python e bibliotecas de processamento de linguagem natural .
+iniciou	VERB	0	18	5	0	A Universidade Federal do Paraná iniciou um projeto sobre análise de textos . O grupo de pesquisa utiliza Python e bibliotecas de processamento de linguagem natural .
+um	DET	0	18	6	0	A Universidade Federal do Paraná iniciou um projeto sobre análise de textos . O grupo de pesquisa utiliza Python e bibliotecas de processamento de linguagem natural .
+projeto	NOUN	0	18	7	0	A Universidade Federal do Paraná iniciou um projeto sobre análise de textos . O grupo de pesquisa utiliza Python e bibliotecas de processamento de linguagem natural .
+sobre	ADP	0	18	8	0	A Universidade Federal do Paraná iniciou um projeto sobre análise de textos . O grupo de pesquisa utiliza Python e bibliotecas de processamento de linguagem natural .
+análise	NOUN	0	18	9	0	A Universidade Federal do Paraná iniciou um projeto sobre análise de textos . O grupo de pesquisa utiliza Python e bibliotecas de processamento de linguagem natural .
+de	ADP	0	18	10	0	A Universidade Federal do Paraná iniciou um projeto sobre análise de textos . O grupo de pesquisa utiliza Python e bibliotecas de processamento de linguagem natural .
+textos	NOUN	0	18	11	0	A Universidade Federal do Paraná iniciou um projeto sobre análise de textos . O grupo de pesquisa utiliza Python e bibliotecas de processamento de linguagem natural .
+.	PUNCT	0	18	12	0	A Universidade Federal do Paraná iniciou um projeto sobre análise de textos . O grupo de pesquisa utiliza Python e bibliotecas de processamento de linguagem natural .
+O	DET	0	18	13	0	A Universidade Federal do Paraná iniciou um projeto sobre análise de textos . O grupo de pesquisa utiliza Python e bibliotecas de processamento de linguagem natural .
+grupo	NOUN	0	18	14	0	A Universidade Federal do Paraná iniciou um projeto sobre análise de textos . O grupo de pesquisa utiliza Python e bibliotecas de processamento de linguagem natural .
+de	ADP	0	18	15	0	A Universidade Federal do Paraná iniciou um projeto sobre análise de textos . O grupo de pesquisa utiliza Python e bibliotecas de processamento de linguagem natural .
+pesquisa	NOUN	0	18	16	0	A Universidade Federal do Paraná iniciou um projeto sobre análise de textos . O grupo de pesquisa utiliza Python e bibliotecas de processamento de linguagem natural .
+utiliza	VERB	0	18	17	0	A Universidade Federal do Paraná iniciou um projeto sobre análise de textos . O grupo de pesquisa utiliza Python e bibliotecas de processamento de linguagem natural .
+Python	PROPN	1	18	18	0	A Universidade Federal do Paraná iniciou um projeto sobre análise de textos . O grupo de pesquisa utiliza Python e bibliotecas de processamento de linguagem natural .
+e	CCONJ	0	18	19	0	A Universidade Federal do Paraná iniciou um projeto sobre análise de textos . O grupo de pesquisa utiliza Python e bibliotecas de processamento de linguagem natural .
+bibliotecas	NOUN	0	18	20	0	A Universidade Federal do Paraná iniciou um projeto sobre análise de textos . O grupo de pesquisa utiliza Python e bibliotecas de processamento de linguagem natural .
+de	ADP	0	18	21	0	A Universidade Federal do Paraná iniciou um projeto sobre análise de textos . O grupo de pesquisa utiliza Python e bibliotecas de processamento de linguagem natural .
+processamento	NOUN	0	18	22	0	A Universidade Federal do Paraná iniciou um projeto sobre análise de textos . O grupo de pesquisa utiliza Python e bibliotecas de processamento de linguagem natural .
+de	ADP	0	18	23	0	A Universidade Federal do Paraná iniciou um projeto sobre análise de textos . O grupo de pesquisa utiliza Python e bibliotecas de processamento de linguagem natural .
+linguagem	NOUN	0	18	24	0	A Universidade Federal do Paraná iniciou um projeto sobre análise de textos . O grupo de pesquisa utiliza Python e bibliotecas de processamento de linguagem natural .
+natural	ADJ	0	18	25	0	A Universidade Federal do Paraná iniciou um projeto sobre análise de textos . O grupo de pesquisa utiliza Python e bibliotecas de processamento de linguagem natural .
+.	PUNCT	0	18	26	0	A Universidade Federal do Paraná iniciou um projeto sobre análise de textos . O grupo de pesquisa utiliza Python e bibliotecas de processamento de linguagem natural .
+17	['DET', 'PROPN', 'PROPN', 'ADP', 'PROPN', 'VERB', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'DET', 'NOUN', 'ADP', 'NOUN', 'VERB', 'PROPN', 'CCONJ', 'NOUN', 'ADP', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]	18	17	1	A Universidade Federal do Paraná iniciou um projeto sobre análise de textos . O grupo de pesquisa utiliza Python e bibliotecas de processamento de linguagem natural .
+A	DET	0	19	0	0	A Natura investiu em comércio eletrônico e canais digitais de atendimento . A empresa busca melhorar a experiência dos consumidores .
+Natura	NOUN	1	19	1	0	A Natura investiu em comércio eletrônico e canais digitais de atendimento . A empresa busca melhorar a experiência dos consumidores .
+investiu	VERB	1	19	2	0	A Natura investiu em comércio eletrônico e canais digitais de atendimento . A empresa busca melhorar a experiência dos consumidores .
+em	ADP	0	19	3	0	A Natura investiu em comércio eletrônico e canais digitais de atendimento . A empresa busca melhorar a experiência dos consumidores .
+comércio	NOUN	0	19	4	0	A Natura investiu em comércio eletrônico e canais digitais de atendimento . A empresa busca melhorar a experiência dos consumidores .
+eletrônico	ADJ	0	19	5	0	A Natura investiu em comércio eletrônico e canais digitais de atendimento . A empresa busca melhorar a experiência dos consumidores .
+e	CCONJ	0	19	6	0	A Natura investiu em comércio eletrônico e canais digitais de atendimento . A empresa busca melhorar a experiência dos consumidores .
+canais	NOUN	0	19	7	0	A Natura investiu em comércio eletrônico e canais digitais de atendimento . A empresa busca melhorar a experiência dos consumidores .
+digitais	ADJ	0	19	8	0	A Natura investiu em comércio eletrônico e canais digitais de atendimento . A empresa busca melhorar a experiência dos consumidores .
+de	ADP	0	19	9	0	A Natura investiu em comércio eletrônico e canais digitais de atendimento . A empresa busca melhorar a experiência dos consumidores .
+atendimento	NOUN	0	19	10	0	A Natura investiu em comércio eletrônico e canais digitais de atendimento . A empresa busca melhorar a experiência dos consumidores .
+.	PUNCT	0	19	11	0	A Natura investiu em comércio eletrônico e canais digitais de atendimento . A empresa busca melhorar a experiência dos consumidores .
+A	DET	0	19	12	0	A Natura investiu em comércio eletrônico e canais digitais de atendimento . A empresa busca melhorar a experiência dos consumidores .
+empresa	NOUN	0	19	13	0	A Natura investiu em comércio eletrônico e canais digitais de atendimento . A empresa busca melhorar a experiência dos consumidores .
+busca	VERB	0	19	14	0	A Natura investiu em comércio eletrônico e canais digitais de atendimento . A empresa busca melhorar a experiência dos consumidores .
+melhorar	VERB	0	19	15	0	A Natura investiu em comércio eletrônico e canais digitais de atendimento . A empresa busca melhorar a experiência dos consumidores .
+a	DET	0	19	16	0	A Natura investiu em comércio eletrônico e canais digitais de atendimento . A empresa busca melhorar a experiência dos consumidores .
+experiência	NOUN	0	19	17	0	A Natura investiu em comércio eletrônico e canais digitais de atendimento . A empresa busca melhorar a experiência dos consumidores .
+dos	ADP	0	19	18	0	A Natura investiu em comércio eletrônico e canais digitais de atendimento . A empresa busca melhorar a experiência dos consumidores .
+consumidores	NOUN	0	19	19	0	A Natura investiu em comércio eletrônico e canais digitais de atendimento . A empresa busca melhorar a experiência dos consumidores .
+.	PUNCT	0	19	20	0	A Natura investiu em comércio eletrônico e canais digitais de atendimento . A empresa busca melhorar a experiência dos consumidores .
+18	['DET', 'NOUN', 'VERB', 'ADP', 'NOUN', 'ADJ', 'CCONJ', 'NOUN', 'ADJ', 'ADP', 'NOUN', 'PUNCT', 'DET', 'NOUN', 'VERB', 'VERB', 'DET', 'NOUN', 'ADP', 'NOUN', 'PUNCT']	[0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	19	18	1	A Natura investiu em comércio eletrônico e canais digitais de atendimento . A empresa busca melhorar a experiência dos consumidores .
+A	DET	0	20	0	0	A Magazine Luiza ampliou o uso de dados para recomendar produtos aos clientes . A companhia também investe em tecnologia para logística .
+Magazine	PROPN	0	20	1	0	A Magazine Luiza ampliou o uso de dados para recomendar produtos aos clientes . A companhia também investe em tecnologia para logística .
+Luiza	PROPN	1	20	2	0	A Magazine Luiza ampliou o uso de dados para recomendar produtos aos clientes . A companhia também investe em tecnologia para logística .
+ampliou	VERB	0	20	3	0	A Magazine Luiza ampliou o uso de dados para recomendar produtos aos clientes . A companhia também investe em tecnologia para logística .
+o	DET	0	20	4	0	A Magazine Luiza ampliou o uso de dados para recomendar produtos aos clientes . A companhia também investe em tecnologia para logística .
+uso	NOUN	0	20	5	0	A Magazine Luiza ampliou o uso de dados para recomendar produtos aos clientes . A companhia também investe em tecnologia para logística .
+de	ADP	0	20	6	0	A Magazine Luiza ampliou o uso de dados para recomendar produtos aos clientes . A companhia também investe em tecnologia para logística .
+dados	NOUN	0	20	7	0	A Magazine Luiza ampliou o uso de dados para recomendar produtos aos clientes . A companhia também investe em tecnologia para logística .
+para	SCONJ	0	20	8	0	A Magazine Luiza ampliou o uso de dados para recomendar produtos aos clientes . A companhia também investe em tecnologia para logística .
+recomendar	VERB	1	20	9	0	A Magazine Luiza ampliou o uso de dados para recomendar produtos aos clientes . A companhia também investe em tecnologia para logística .
+produtos	NOUN	0	20	10	0	A Magazine Luiza ampliou o uso de dados para recomendar produtos aos clientes . A companhia também investe em tecnologia para logística .
+aos	ADP	0	20	11	0	A Magazine Luiza ampliou o uso de dados para recomendar produtos aos clientes . A companhia também investe em tecnologia para logística .
+clientes	NOUN	0	20	12	0	A Magazine Luiza ampliou o uso de dados para recomendar produtos aos clientes . A companhia também investe em tecnologia para logística .
+.	PUNCT	0	20	13	0	A Magazine Luiza ampliou o uso de dados para recomendar produtos aos clientes . A companhia também investe em tecnologia para logística .
+A	DET	0	20	14	0	A Magazine Luiza ampliou o uso de dados para recomendar produtos aos clientes . A companhia também investe em tecnologia para logística .
+companhia	NOUN	0	20	15	0	A Magazine Luiza ampliou o uso de dados para recomendar produtos aos clientes . A companhia também investe em tecnologia para logística .
+também	ADV	0	20	16	0	A Magazine Luiza ampliou o uso de dados para recomendar produtos aos clientes . A companhia também investe em tecnologia para logística .
+investe	VERB	1	20	17	0	A Magazine Luiza ampliou o uso de dados para recomendar produtos aos clientes . A companhia também investe em tecnologia para logística .
+em	ADP	0	20	18	0	A Magazine Luiza ampliou o uso de dados para recomendar produtos aos clientes . A companhia também investe em tecnologia para logística .
+tecnologia	NOUN	0	20	19	0	A Magazine Luiza ampliou o uso de dados para recomendar produtos aos clientes . A companhia também investe em tecnologia para logística .
+para	ADP	0	20	20	0	A Magazine Luiza ampliou o uso de dados para recomendar produtos aos clientes . A companhia também investe em tecnologia para logística .
+logística	NOUN	0	20	21	0	A Magazine Luiza ampliou o uso de dados para recomendar produtos aos clientes . A companhia também investe em tecnologia para logística .
+.	PUNCT	0	20	22	0	A Magazine Luiza ampliou o uso de dados para recomendar produtos aos clientes . A companhia também investe em tecnologia para logística .
+19	['DET', 'PROPN', 'PROPN', 'VERB', 'DET', 'NOUN', 'ADP', 'NOUN', 'SCONJ', 'VERB', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'DET', 'NOUN', 'ADV', 'VERB', 'ADP', 'NOUN', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]	20	19	1	A Magazine Luiza ampliou o uso de dados para recomendar produtos aos clientes . A companhia também investe em tecnologia para logística .
+A	DET	0	21	0	0	A Polícia Federal investigou crimes digitais envolvendo vazamento de dados . A operação destacou a importância da segurança da informação .
+Polícia	PROPN	0	21	1	0	A Polícia Federal investigou crimes digitais envolvendo vazamento de dados . A operação destacou a importância da segurança da informação .
+Federal	PROPN	0	21	2	0	A Polícia Federal investigou crimes digitais envolvendo vazamento de dados . A operação destacou a importância da segurança da informação .
+investigou	VERB	1	21	3	0	A Polícia Federal investigou crimes digitais envolvendo vazamento de dados . A operação destacou a importância da segurança da informação .
+crimes	NOUN	0	21	4	0	A Polícia Federal investigou crimes digitais envolvendo vazamento de dados . A operação destacou a importância da segurança da informação .
+digitais	ADJ	0	21	5	0	A Polícia Federal investigou crimes digitais envolvendo vazamento de dados . A operação destacou a importância da segurança da informação .
+envolvendo	VERB	0	21	6	0	A Polícia Federal investigou crimes digitais envolvendo vazamento de dados . A operação destacou a importância da segurança da informação .
+vazamento	NOUN	1	21	7	0	A Polícia Federal investigou crimes digitais envolvendo vazamento de dados . A operação destacou a importância da segurança da informação .
+de	ADP	0	21	8	0	A Polícia Federal investigou crimes digitais envolvendo vazamento de dados . A operação destacou a importância da segurança da informação .
+dados	NOUN	0	21	9	0	A Polícia Federal investigou crimes digitais envolvendo vazamento de dados . A operação destacou a importância da segurança da informação .
+.	PUNCT	0	21	10	0	A Polícia Federal investigou crimes digitais envolvendo vazamento de dados . A operação destacou a importância da segurança da informação .
+A	DET	0	21	11	0	A Polícia Federal investigou crimes digitais envolvendo vazamento de dados . A operação destacou a importância da segurança da informação .
+operação	NOUN	0	21	12	0	A Polícia Federal investigou crimes digitais envolvendo vazamento de dados . A operação destacou a importância da segurança da informação .
+destacou	VERB	0	21	13	0	A Polícia Federal investigou crimes digitais envolvendo vazamento de dados . A operação destacou a importância da segurança da informação .
+a	DET	0	21	14	0	A Polícia Federal investigou crimes digitais envolvendo vazamento de dados . A operação destacou a importância da segurança da informação .
+importância	NOUN	0	21	15	0	A Polícia Federal investigou crimes digitais envolvendo vazamento de dados . A operação destacou a importância da segurança da informação .
+da	ADP	0	21	16	0	A Polícia Federal investigou crimes digitais envolvendo vazamento de dados . A operação destacou a importância da segurança da informação .
+segurança	NOUN	0	21	17	0	A Polícia Federal investigou crimes digitais envolvendo vazamento de dados . A operação destacou a importância da segurança da informação .
+da	ADP	0	21	18	0	A Polícia Federal investigou crimes digitais envolvendo vazamento de dados . A operação destacou a importância da segurança da informação .
+informação	NOUN	0	21	19	0	A Polícia Federal investigou crimes digitais envolvendo vazamento de dados . A operação destacou a importância da segurança da informação .
+.	PUNCT	0	21	20	0	A Polícia Federal investigou crimes digitais envolvendo vazamento de dados . A operação destacou a importância da segurança da informação .
+20	['DET', 'PROPN', 'PROPN', 'VERB', 'NOUN', 'ADJ', 'VERB', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'DET', 'NOUN', 'VERB', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADP', 'NOUN', 'PUNCT']	[0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	21	20	1	A Polícia Federal investigou crimes digitais envolvendo vazamento de dados . A operação destacou a importância da segurança da informação .
+A	DET	0	22	0	0	A Cisco oferece equipamentos e soluções para redes corporativas . Suas tecnologias são usadas em empresas , escolas e órgãos públicos .
+Cisco	PROPN	1	22	1	0	A Cisco oferece equipamentos e soluções para redes corporativas . Suas tecnologias são usadas em empresas , escolas e órgãos públicos .
+oferece	VERB	0	22	2	0	A Cisco oferece equipamentos e soluções para redes corporativas . Suas tecnologias são usadas em empresas , escolas e órgãos públicos .
+equipamentos	NOUN	0	22	3	0	A Cisco oferece equipamentos e soluções para redes corporativas . Suas tecnologias são usadas em empresas , escolas e órgãos públicos .
+e	CCONJ	0	22	4	0	A Cisco oferece equipamentos e soluções para redes corporativas . Suas tecnologias são usadas em empresas , escolas e órgãos públicos .
+soluções	NOUN	0	22	5	0	A Cisco oferece equipamentos e soluções para redes corporativas . Suas tecnologias são usadas em empresas , escolas e órgãos públicos .
+para	ADP	0	22	6	0	A Cisco oferece equipamentos e soluções para redes corporativas . Suas tecnologias são usadas em empresas , escolas e órgãos públicos .
+redes	NOUN	0	22	7	0	A Cisco oferece equipamentos e soluções para redes corporativas . Suas tecnologias são usadas em empresas , escolas e órgãos públicos .
+corporativas	ADJ	1	22	8	0	A Cisco oferece equipamentos e soluções para redes corporativas . Suas tecnologias são usadas em empresas , escolas e órgãos públicos .
+.	PUNCT	0	22	9	0	A Cisco oferece equipamentos e soluções para redes corporativas . Suas tecnologias são usadas em empresas , escolas e órgãos públicos .
+Suas	DET	0	22	10	0	A Cisco oferece equipamentos e soluções para redes corporativas . Suas tecnologias são usadas em empresas , escolas e órgãos públicos .
+tecnologias	NOUN	0	22	11	0	A Cisco oferece equipamentos e soluções para redes corporativas . Suas tecnologias são usadas em empresas , escolas e órgãos públicos .
+são	AUX	0	22	12	0	A Cisco oferece equipamentos e soluções para redes corporativas . Suas tecnologias são usadas em empresas , escolas e órgãos públicos .
+usadas	VERB	0	22	13	0	A Cisco oferece equipamentos e soluções para redes corporativas . Suas tecnologias são usadas em empresas , escolas e órgãos públicos .
+em	ADP	0	22	14	0	A Cisco oferece equipamentos e soluções para redes corporativas . Suas tecnologias são usadas em empresas , escolas e órgãos públicos .
+empresas	NOUN	0	22	15	0	A Cisco oferece equipamentos e soluções para redes corporativas . Suas tecnologias são usadas em empresas , escolas e órgãos públicos .
+,	PUNCT	0	22	16	0	A Cisco oferece equipamentos e soluções para redes corporativas . Suas tecnologias são usadas em empresas , escolas e órgãos públicos .
+escolas	NOUN	0	22	17	0	A Cisco oferece equipamentos e soluções para redes corporativas . Suas tecnologias são usadas em empresas , escolas e órgãos públicos .
+e	CCONJ	0	22	18	0	A Cisco oferece equipamentos e soluções para redes corporativas . Suas tecnologias são usadas em empresas , escolas e órgãos públicos .
+órgãos	NOUN	0	22	19	0	A Cisco oferece equipamentos e soluções para redes corporativas . Suas tecnologias são usadas em empresas , escolas e órgãos públicos .
+públicos	ADJ	0	22	20	0	A Cisco oferece equipamentos e soluções para redes corporativas . Suas tecnologias são usadas em empresas , escolas e órgãos públicos .
+.	PUNCT	0	22	21	0	A Cisco oferece equipamentos e soluções para redes corporativas . Suas tecnologias são usadas em empresas , escolas e órgãos públicos .
+21	['DET', 'PROPN', 'VERB', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'PUNCT', 'DET', 'NOUN', 'AUX', 'VERB', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'CCONJ', 'NOUN', 'ADJ', 'PUNCT']	[0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	22	21	1	A Cisco oferece equipamentos e soluções para redes corporativas . Suas tecnologias são usadas em empresas , escolas e órgãos públicos .
+A	DET	0	23	0	0	A Dell anunciou computadores voltados para profissionais de tecnologia . A empresa informou que os modelos possuem maior desempenho para tarefas de dados .
+Dell	PROPN	1	23	1	0	A Dell anunciou computadores voltados para profissionais de tecnologia . A empresa informou que os modelos possuem maior desempenho para tarefas de dados .
+anunciou	VERB	0	23	2	0	A Dell anunciou computadores voltados para profissionais de tecnologia . A empresa informou que os modelos possuem maior desempenho para tarefas de dados .
+computadores	NOUN	0	23	3	0	A Dell anunciou computadores voltados para profissionais de tecnologia . A empresa informou que os modelos possuem maior desempenho para tarefas de dados .
+voltados	VERB	0	23	4	0	A Dell anunciou computadores voltados para profissionais de tecnologia . A empresa informou que os modelos possuem maior desempenho para tarefas de dados .
+para	ADP	0	23	5	0	A Dell anunciou computadores voltados para profissionais de tecnologia . A empresa informou que os modelos possuem maior desempenho para tarefas de dados .
+profissionais	NOUN	0	23	6	0	A Dell anunciou computadores voltados para profissionais de tecnologia . A empresa informou que os modelos possuem maior desempenho para tarefas de dados .
+de	ADP	0	23	7	0	A Dell anunciou computadores voltados para profissionais de tecnologia . A empresa informou que os modelos possuem maior desempenho para tarefas de dados .
+tecnologia	NOUN	0	23	8	0	A Dell anunciou computadores voltados para profissionais de tecnologia . A empresa informou que os modelos possuem maior desempenho para tarefas de dados .
+.	PUNCT	0	23	9	0	A Dell anunciou computadores voltados para profissionais de tecnologia . A empresa informou que os modelos possuem maior desempenho para tarefas de dados .
+A	DET	0	23	10	0	A Dell anunciou computadores voltados para profissionais de tecnologia . A empresa informou que os modelos possuem maior desempenho para tarefas de dados .
+empresa	NOUN	0	23	11	0	A Dell anunciou computadores voltados para profissionais de tecnologia . A empresa informou que os modelos possuem maior desempenho para tarefas de dados .
+informou	VERB	0	23	12	0	A Dell anunciou computadores voltados para profissionais de tecnologia . A empresa informou que os modelos possuem maior desempenho para tarefas de dados .
+que	SCONJ	0	23	13	0	A Dell anunciou computadores voltados para profissionais de tecnologia . A empresa informou que os modelos possuem maior desempenho para tarefas de dados .
+os	DET	0	23	14	0	A Dell anunciou computadores voltados para profissionais de tecnologia . A empresa informou que os modelos possuem maior desempenho para tarefas de dados .
+modelos	NOUN	0	23	15	0	A Dell anunciou computadores voltados para profissionais de tecnologia . A empresa informou que os modelos possuem maior desempenho para tarefas de dados .
+possuem	VERB	0	23	16	0	A Dell anunciou computadores voltados para profissionais de tecnologia . A empresa informou que os modelos possuem maior desempenho para tarefas de dados .
+maior	ADJ	0	23	17	0	A Dell anunciou computadores voltados para profissionais de tecnologia . A empresa informou que os modelos possuem maior desempenho para tarefas de dados .
+desempenho	NOUN	0	23	18	0	A Dell anunciou computadores voltados para profissionais de tecnologia . A empresa informou que os modelos possuem maior desempenho para tarefas de dados .
+para	ADP	0	23	19	0	A Dell anunciou computadores voltados para profissionais de tecnologia . A empresa informou que os modelos possuem maior desempenho para tarefas de dados .
+tarefas	NOUN	0	23	20	0	A Dell anunciou computadores voltados para profissionais de tecnologia . A empresa informou que os modelos possuem maior desempenho para tarefas de dados .
+de	ADP	0	23	21	0	A Dell anunciou computadores voltados para profissionais de tecnologia . A empresa informou que os modelos possuem maior desempenho para tarefas de dados .
+dados	NOUN	0	23	22	0	A Dell anunciou computadores voltados para profissionais de tecnologia . A empresa informou que os modelos possuem maior desempenho para tarefas de dados .
+.	PUNCT	0	23	23	0	A Dell anunciou computadores voltados para profissionais de tecnologia . A empresa informou que os modelos possuem maior desempenho para tarefas de dados .
+22	['DET', 'PROPN', 'VERB', 'NOUN', 'VERB', 'ADP', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'DET', 'NOUN', 'VERB', 'SCONJ', 'DET', 'NOUN', 'VERB', 'ADJ', 'NOUN', 'ADP', 'NOUN', 'ADP', 'NOUN', 'PUNCT']	[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	23	22	1	A Dell anunciou computadores voltados para profissionais de tecnologia . A empresa informou que os modelos possuem maior desempenho para tarefas de dados .
+A	DET	0	24	0	0	A Lenovo apresentou notebooks para estudantes e trabalhadores remotos . A companhia destacou mobilidade , bateria e integração com serviços online .
+Lenovo	PROPN	1	24	1	0	A Lenovo apresentou notebooks para estudantes e trabalhadores remotos . A companhia destacou mobilidade , bateria e integração com serviços online .
+apresentou	VERB	0	24	2	0	A Lenovo apresentou notebooks para estudantes e trabalhadores remotos . A companhia destacou mobilidade , bateria e integração com serviços online .
+notebooks	NOUN	1	24	3	0	A Lenovo apresentou notebooks para estudantes e trabalhadores remotos . A companhia destacou mobilidade , bateria e integração com serviços online .
+para	ADP	0	24	4	0	A Lenovo apresentou notebooks para estudantes e trabalhadores remotos . A companhia destacou mobilidade , bateria e integração com serviços online .
+estudantes	NOUN	0	24	5	0	A Lenovo apresentou notebooks para estudantes e trabalhadores remotos . A companhia destacou mobilidade , bateria e integração com serviços online .
+e	CCONJ	0	24	6	0	A Lenovo apresentou notebooks para estudantes e trabalhadores remotos . A companhia destacou mobilidade , bateria e integração com serviços online .
+trabalhadores	NOUN	0	24	7	0	A Lenovo apresentou notebooks para estudantes e trabalhadores remotos . A companhia destacou mobilidade , bateria e integração com serviços online .
+remotos	ADJ	1	24	8	0	A Lenovo apresentou notebooks para estudantes e trabalhadores remotos . A companhia destacou mobilidade , bateria e integração com serviços online .
+.	PUNCT	0	24	9	0	A Lenovo apresentou notebooks para estudantes e trabalhadores remotos . A companhia destacou mobilidade , bateria e integração com serviços online .
+A	DET	0	24	10	0	A Lenovo apresentou notebooks para estudantes e trabalhadores remotos . A companhia destacou mobilidade , bateria e integração com serviços online .
+companhia	NOUN	0	24	11	0	A Lenovo apresentou notebooks para estudantes e trabalhadores remotos . A companhia destacou mobilidade , bateria e integração com serviços online .
+destacou	VERB	0	24	12	0	A Lenovo apresentou notebooks para estudantes e trabalhadores remotos . A companhia destacou mobilidade , bateria e integração com serviços online .
+mobilidade	NOUN	0	24	13	0	A Lenovo apresentou notebooks para estudantes e trabalhadores remotos . A companhia destacou mobilidade , bateria e integração com serviços online .
+,	PUNCT	0	24	14	0	A Lenovo apresentou notebooks para estudantes e trabalhadores remotos . A companhia destacou mobilidade , bateria e integração com serviços online .
+bateria	NOUN	0	24	15	0	A Lenovo apresentou notebooks para estudantes e trabalhadores remotos . A companhia destacou mobilidade , bateria e integração com serviços online .
+e	CCONJ	0	24	16	0	A Lenovo apresentou notebooks para estudantes e trabalhadores remotos . A companhia destacou mobilidade , bateria e integração com serviços online .
+integração	NOUN	0	24	17	0	A Lenovo apresentou notebooks para estudantes e trabalhadores remotos . A companhia destacou mobilidade , bateria e integração com serviços online .
+com	ADP	0	24	18	0	A Lenovo apresentou notebooks para estudantes e trabalhadores remotos . A companhia destacou mobilidade , bateria e integração com serviços online .
+serviços	NOUN	0	24	19	0	A Lenovo apresentou notebooks para estudantes e trabalhadores remotos . A companhia destacou mobilidade , bateria e integração com serviços online .
+online	ADJ	0	24	20	0	A Lenovo apresentou notebooks para estudantes e trabalhadores remotos . A companhia destacou mobilidade , bateria e integração com serviços online .
+.	PUNCT	0	24	21	0	A Lenovo apresentou notebooks para estudantes e trabalhadores remotos . A companhia destacou mobilidade , bateria e integração com serviços online .
+23	['DET', 'PROPN', 'VERB', 'NOUN', 'ADP', 'NOUN', 'CCONJ', 'NOUN', 'ADJ', 'PUNCT', 'DET', 'NOUN', 'VERB', 'NOUN', 'PUNCT', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'PUNCT']	[0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	24	23	1	A Lenovo apresentou notebooks para estudantes e trabalhadores remotos . A companhia destacou mobilidade , bateria e integração com serviços online .
+A	DET	0	25	0	0	A Microsoft Teams é utilizada por empresas para reuniões e comunicação interna . A ferramenta se tornou comum em ambientes de trabalho remoto .
+Microsoft	PROPN	0	25	1	0	A Microsoft Teams é utilizada por empresas para reuniões e comunicação interna . A ferramenta se tornou comum em ambientes de trabalho remoto .
+Teams	PROPN	1	25	2	0	A Microsoft Teams é utilizada por empresas para reuniões e comunicação interna . A ferramenta se tornou comum em ambientes de trabalho remoto .
+é	AUX	0	25	3	0	A Microsoft Teams é utilizada por empresas para reuniões e comunicação interna . A ferramenta se tornou comum em ambientes de trabalho remoto .
+utilizada	VERB	0	25	4	0	A Microsoft Teams é utilizada por empresas para reuniões e comunicação interna . A ferramenta se tornou comum em ambientes de trabalho remoto .
+por	ADP	0	25	5	0	A Microsoft Teams é utilizada por empresas para reuniões e comunicação interna . A ferramenta se tornou comum em ambientes de trabalho remoto .
+empresas	NOUN	0	25	6	0	A Microsoft Teams é utilizada por empresas para reuniões e comunicação interna . A ferramenta se tornou comum em ambientes de trabalho remoto .
+para	ADP	0	25	7	0	A Microsoft Teams é utilizada por empresas para reuniões e comunicação interna . A ferramenta se tornou comum em ambientes de trabalho remoto .
+reuniões	NOUN	0	25	8	0	A Microsoft Teams é utilizada por empresas para reuniões e comunicação interna . A ferramenta se tornou comum em ambientes de trabalho remoto .
+e	CCONJ	0	25	9	0	A Microsoft Teams é utilizada por empresas para reuniões e comunicação interna . A ferramenta se tornou comum em ambientes de trabalho remoto .
+comunicação	NOUN	0	25	10	0	A Microsoft Teams é utilizada por empresas para reuniões e comunicação interna . A ferramenta se tornou comum em ambientes de trabalho remoto .
+interna	ADJ	0	25	11	0	A Microsoft Teams é utilizada por empresas para reuniões e comunicação interna . A ferramenta se tornou comum em ambientes de trabalho remoto .
+.	PUNCT	0	25	12	0	A Microsoft Teams é utilizada por empresas para reuniões e comunicação interna . A ferramenta se tornou comum em ambientes de trabalho remoto .
+A	DET	0	25	13	0	A Microsoft Teams é utilizada por empresas para reuniões e comunicação interna . A ferramenta se tornou comum em ambientes de trabalho remoto .
+ferramenta	NOUN	0	25	14	0	A Microsoft Teams é utilizada por empresas para reuniões e comunicação interna . A ferramenta se tornou comum em ambientes de trabalho remoto .
+se	PRON	0	25	15	0	A Microsoft Teams é utilizada por empresas para reuniões e comunicação interna . A ferramenta se tornou comum em ambientes de trabalho remoto .
+tornou	VERB	0	25	16	0	A Microsoft Teams é utilizada por empresas para reuniões e comunicação interna . A ferramenta se tornou comum em ambientes de trabalho remoto .
+comum	ADJ	0	25	17	0	A Microsoft Teams é utilizada por empresas para reuniões e comunicação interna . A ferramenta se tornou comum em ambientes de trabalho remoto .
+em	ADP	0	25	18	0	A Microsoft Teams é utilizada por empresas para reuniões e comunicação interna . A ferramenta se tornou comum em ambientes de trabalho remoto .
+ambientes	NOUN	0	25	19	0	A Microsoft Teams é utilizada por empresas para reuniões e comunicação interna . A ferramenta se tornou comum em ambientes de trabalho remoto .
+de	ADP	0	25	20	0	A Microsoft Teams é utilizada por empresas para reuniões e comunicação interna . A ferramenta se tornou comum em ambientes de trabalho remoto .
+trabalho	NOUN	0	25	21	0	A Microsoft Teams é utilizada por empresas para reuniões e comunicação interna . A ferramenta se tornou comum em ambientes de trabalho remoto .
+remoto	ADJ	1	25	22	0	A Microsoft Teams é utilizada por empresas para reuniões e comunicação interna . A ferramenta se tornou comum em ambientes de trabalho remoto .
+.	PUNCT	0	25	23	0	A Microsoft Teams é utilizada por empresas para reuniões e comunicação interna . A ferramenta se tornou comum em ambientes de trabalho remoto .
+24	['DET', 'PROPN', 'PROPN', 'AUX', 'VERB', 'ADP', 'NOUN', 'ADP', 'NOUN', 'CCONJ', 'NOUN', 'ADJ', 'PUNCT', 'DET', 'NOUN', 'PRON', 'VERB', 'ADJ', 'ADP', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'PUNCT']	[0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]	25	24	1	A Microsoft Teams é utilizada por empresas para reuniões e comunicação interna . A ferramenta se tornou comum em ambientes de trabalho remoto .
+O	DET	0	26	0	0	O GitHub é usado por desenvolvedores para armazenar e compartilhar código . A plataforma pertence à Microsoft e ajuda no controle de versões .
+GitHub	NOUN	1	26	1	0	O GitHub é usado por desenvolvedores para armazenar e compartilhar código . A plataforma pertence à Microsoft e ajuda no controle de versões .
+é	AUX	0	26	2	0	O GitHub é usado por desenvolvedores para armazenar e compartilhar código . A plataforma pertence à Microsoft e ajuda no controle de versões .
+usado	VERB	0	26	3	0	O GitHub é usado por desenvolvedores para armazenar e compartilhar código . A plataforma pertence à Microsoft e ajuda no controle de versões .
+por	ADP	0	26	4	0	O GitHub é usado por desenvolvedores para armazenar e compartilhar código . A plataforma pertence à Microsoft e ajuda no controle de versões .
+desenvolvedores	NOUN	0	26	5	0	O GitHub é usado por desenvolvedores para armazenar e compartilhar código . A plataforma pertence à Microsoft e ajuda no controle de versões .
+para	SCONJ	0	26	6	0	O GitHub é usado por desenvolvedores para armazenar e compartilhar código . A plataforma pertence à Microsoft e ajuda no controle de versões .
+armazenar	VERB	1	26	7	0	O GitHub é usado por desenvolvedores para armazenar e compartilhar código . A plataforma pertence à Microsoft e ajuda no controle de versões .
+e	CCONJ	0	26	8	0	O GitHub é usado por desenvolvedores para armazenar e compartilhar código . A plataforma pertence à Microsoft e ajuda no controle de versões .
+compartilhar	VERB	0	26	9	0	O GitHub é usado por desenvolvedores para armazenar e compartilhar código . A plataforma pertence à Microsoft e ajuda no controle de versões .
+código	NOUN	0	26	10	0	O GitHub é usado por desenvolvedores para armazenar e compartilhar código . A plataforma pertence à Microsoft e ajuda no controle de versões .
+.	PUNCT	0	26	11	0	O GitHub é usado por desenvolvedores para armazenar e compartilhar código . A plataforma pertence à Microsoft e ajuda no controle de versões .
+A	DET	0	26	12	0	O GitHub é usado por desenvolvedores para armazenar e compartilhar código . A plataforma pertence à Microsoft e ajuda no controle de versões .
+plataforma	NOUN	0	26	13	0	O GitHub é usado por desenvolvedores para armazenar e compartilhar código . A plataforma pertence à Microsoft e ajuda no controle de versões .
+pertence	VERB	0	26	14	0	O GitHub é usado por desenvolvedores para armazenar e compartilhar código . A plataforma pertence à Microsoft e ajuda no controle de versões .
+à	ADP	0	26	15	0	O GitHub é usado por desenvolvedores para armazenar e compartilhar código . A plataforma pertence à Microsoft e ajuda no controle de versões .
+Microsoft	PROPN	0	26	16	0	O GitHub é usado por desenvolvedores para armazenar e compartilhar código . A plataforma pertence à Microsoft e ajuda no controle de versões .
+e	CCONJ	0	26	17	0	O GitHub é usado por desenvolvedores para armazenar e compartilhar código . A plataforma pertence à Microsoft e ajuda no controle de versões .
+ajuda	VERB	0	26	18	0	O GitHub é usado por desenvolvedores para armazenar e compartilhar código . A plataforma pertence à Microsoft e ajuda no controle de versões .
+no	ADP	0	26	19	0	O GitHub é usado por desenvolvedores para armazenar e compartilhar código . A plataforma pertence à Microsoft e ajuda no controle de versões .
+controle	NOUN	0	26	20	0	O GitHub é usado por desenvolvedores para armazenar e compartilhar código . A plataforma pertence à Microsoft e ajuda no controle de versões .
+de	ADP	0	26	21	0	O GitHub é usado por desenvolvedores para armazenar e compartilhar código . A plataforma pertence à Microsoft e ajuda no controle de versões .
+versões	NOUN	0	26	22	0	O GitHub é usado por desenvolvedores para armazenar e compartilhar código . A plataforma pertence à Microsoft e ajuda no controle de versões .
+.	PUNCT	0	26	23	0	O GitHub é usado por desenvolvedores para armazenar e compartilhar código . A plataforma pertence à Microsoft e ajuda no controle de versões .
+25	['DET', 'NOUN', 'AUX', 'VERB', 'ADP', 'NOUN', 'SCONJ', 'VERB', 'CCONJ', 'VERB', 'NOUN', 'PUNCT', 'DET', 'NOUN', 'VERB', 'ADP', 'PROPN', 'CCONJ', 'VERB', 'ADP', 'NOUN', 'ADP', 'NOUN', 'PUNCT']	[0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	26	25	1	O GitHub é usado por desenvolvedores para armazenar e compartilhar código . A plataforma pertence à Microsoft e ajuda no controle de versões .
+A	DET	0	27	0	0	A linguagem Python é usada em universidades e empresas para ciência de dados . Bibliotecas como Pandas e Matplotlib facilitam análises e gráficos .
+linguagem	NOUN	0	27	1	0	A linguagem Python é usada em universidades e empresas para ciência de dados . Bibliotecas como Pandas e Matplotlib facilitam análises e gráficos .
+Python	PROPN	1	27	2	0	A linguagem Python é usada em universidades e empresas para ciência de dados . Bibliotecas como Pandas e Matplotlib facilitam análises e gráficos .
+é	AUX	0	27	3	0	A linguagem Python é usada em universidades e empresas para ciência de dados . Bibliotecas como Pandas e Matplotlib facilitam análises e gráficos .
+usada	VERB	0	27	4	0	A linguagem Python é usada em universidades e empresas para ciência de dados . Bibliotecas como Pandas e Matplotlib facilitam análises e gráficos .
+em	ADP	0	27	5	0	A linguagem Python é usada em universidades e empresas para ciência de dados . Bibliotecas como Pandas e Matplotlib facilitam análises e gráficos .
+universidades	NOUN	0	27	6	0	A linguagem Python é usada em universidades e empresas para ciência de dados . Bibliotecas como Pandas e Matplotlib facilitam análises e gráficos .
+e	CCONJ	0	27	7	0	A linguagem Python é usada em universidades e empresas para ciência de dados . Bibliotecas como Pandas e Matplotlib facilitam análises e gráficos .
+empresas	NOUN	0	27	8	0	A linguagem Python é usada em universidades e empresas para ciência de dados . Bibliotecas como Pandas e Matplotlib facilitam análises e gráficos .
+para	ADP	0	27	9	0	A linguagem Python é usada em universidades e empresas para ciência de dados . Bibliotecas como Pandas e Matplotlib facilitam análises e gráficos .
+ciência	NOUN	0	27	10	0	A linguagem Python é usada em universidades e empresas para ciência de dados . Bibliotecas como Pandas e Matplotlib facilitam análises e gráficos .
+de	ADP	0	27	11	0	A linguagem Python é usada em universidades e empresas para ciência de dados . Bibliotecas como Pandas e Matplotlib facilitam análises e gráficos .
+dados	NOUN	0	27	12	0	A linguagem Python é usada em universidades e empresas para ciência de dados . Bibliotecas como Pandas e Matplotlib facilitam análises e gráficos .
+.	PUNCT	0	27	13	0	A linguagem Python é usada em universidades e empresas para ciência de dados . Bibliotecas como Pandas e Matplotlib facilitam análises e gráficos .
+Bibliotecas	NOUN	1	27	14	0	A linguagem Python é usada em universidades e empresas para ciência de dados . Bibliotecas como Pandas e Matplotlib facilitam análises e gráficos .
+como	ADP	0	27	15	0	A linguagem Python é usada em universidades e empresas para ciência de dados . Bibliotecas como Pandas e Matplotlib facilitam análises e gráficos .
+Pandas	PROPN	1	27	16	0	A linguagem Python é usada em universidades e empresas para ciência de dados . Bibliotecas como Pandas e Matplotlib facilitam análises e gráficos .
+e	CCONJ	0	27	17	0	A linguagem Python é usada em universidades e empresas para ciência de dados . Bibliotecas como Pandas e Matplotlib facilitam análises e gráficos .
+Matplotlib	PROPN	1	27	18	0	A linguagem Python é usada em universidades e empresas para ciência de dados . Bibliotecas como Pandas e Matplotlib facilitam análises e gráficos .
+facilitam	VERB	1	27	19	0	A linguagem Python é usada em universidades e empresas para ciência de dados . Bibliotecas como Pandas e Matplotlib facilitam análises e gráficos .
+análises	NOUN	0	27	20	0	A linguagem Python é usada em universidades e empresas para ciência de dados . Bibliotecas como Pandas e Matplotlib facilitam análises e gráficos .
+e	CCONJ	0	27	21	0	A linguagem Python é usada em universidades e empresas para ciência de dados . Bibliotecas como Pandas e Matplotlib facilitam análises e gráficos .
+gráficos	NOUN	0	27	22	0	A linguagem Python é usada em universidades e empresas para ciência de dados . Bibliotecas como Pandas e Matplotlib facilitam análises e gráficos .
+.	PUNCT	0	27	23	0	A linguagem Python é usada em universidades e empresas para ciência de dados . Bibliotecas como Pandas e Matplotlib facilitam análises e gráficos .
+26	['DET', 'NOUN', 'PROPN', 'AUX', 'VERB', 'ADP', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'PROPN', 'CCONJ', 'PROPN', 'VERB', 'NOUN', 'CCONJ', 'NOUN', 'PUNCT']	[0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 1, 0, 0, 0, 0]	27	26	1	A linguagem Python é usada em universidades e empresas para ciência de dados . Bibliotecas como Pandas e Matplotlib facilitam análises e gráficos .
+A	DET	0	28	0	0	A cidade de Florianópolis possui empresas de tecnologia e inovação . Startups locais atuam em software , educação e serviços digitais .
+cidade	NOUN	0	28	1	0	A cidade de Florianópolis possui empresas de tecnologia e inovação . Startups locais atuam em software , educação e serviços digitais .
+de	ADP	0	28	2	0	A cidade de Florianópolis possui empresas de tecnologia e inovação . Startups locais atuam em software , educação e serviços digitais .
+Florianópolis	PROPN	0	28	3	0	A cidade de Florianópolis possui empresas de tecnologia e inovação . Startups locais atuam em software , educação e serviços digitais .
+possui	VERB	0	28	4	0	A cidade de Florianópolis possui empresas de tecnologia e inovação . Startups locais atuam em software , educação e serviços digitais .
+empresas	NOUN	0	28	5	0	A cidade de Florianópolis possui empresas de tecnologia e inovação . Startups locais atuam em software , educação e serviços digitais .
+de	ADP	0	28	6	0	A cidade de Florianópolis possui empresas de tecnologia e inovação . Startups locais atuam em software , educação e serviços digitais .
+tecnologia	NOUN	0	28	7	0	A cidade de Florianópolis possui empresas de tecnologia e inovação . Startups locais atuam em software , educação e serviços digitais .
+e	CCONJ	0	28	8	0	A cidade de Florianópolis possui empresas de tecnologia e inovação . Startups locais atuam em software , educação e serviços digitais .
+inovação	NOUN	0	28	9	0	A cidade de Florianópolis possui empresas de tecnologia e inovação . Startups locais atuam em software , educação e serviços digitais .
+.	PUNCT	0	28	10	0	A cidade de Florianópolis possui empresas de tecnologia e inovação . Startups locais atuam em software , educação e serviços digitais .
+Startups	NOUN	1	28	11	0	A cidade de Florianópolis possui empresas de tecnologia e inovação . Startups locais atuam em software , educação e serviços digitais .
+locais	ADJ	0	28	12	0	A cidade de Florianópolis possui empresas de tecnologia e inovação . Startups locais atuam em software , educação e serviços digitais .
+atuam	VERB	0	28	13	0	A cidade de Florianópolis possui empresas de tecnologia e inovação . Startups locais atuam em software , educação e serviços digitais .
+em	ADP	0	28	14	0	A cidade de Florianópolis possui empresas de tecnologia e inovação . Startups locais atuam em software , educação e serviços digitais .
+software	NOUN	0	28	15	0	A cidade de Florianópolis possui empresas de tecnologia e inovação . Startups locais atuam em software , educação e serviços digitais .
+,	PUNCT	0	28	16	0	A cidade de Florianópolis possui empresas de tecnologia e inovação . Startups locais atuam em software , educação e serviços digitais .
+educação	NOUN	0	28	17	0	A cidade de Florianópolis possui empresas de tecnologia e inovação . Startups locais atuam em software , educação e serviços digitais .
+e	CCONJ	0	28	18	0	A cidade de Florianópolis possui empresas de tecnologia e inovação . Startups locais atuam em software , educação e serviços digitais .
+serviços	NOUN	0	28	19	0	A cidade de Florianópolis possui empresas de tecnologia e inovação . Startups locais atuam em software , educação e serviços digitais .
+digitais	ADJ	0	28	20	0	A cidade de Florianópolis possui empresas de tecnologia e inovação . Startups locais atuam em software , educação e serviços digitais .
+.	PUNCT	0	28	21	0	A cidade de Florianópolis possui empresas de tecnologia e inovação . Startups locais atuam em software , educação e serviços digitais .
+27	['DET', 'NOUN', 'ADP', 'PROPN', 'VERB', 'NOUN', 'ADP', 'NOUN', 'CCONJ', 'NOUN', 'PUNCT', 'NOUN', 'ADJ', 'VERB', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'CCONJ', 'NOUN', 'ADJ', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	28	27	1	A cidade de Florianópolis possui empresas de tecnologia e inovação . Startups locais atuam em software , educação e serviços digitais .
+O	DET	0	29	0	0	O Hospital Albert Einstein utiliza sistemas de informação para apoiar atendimentos médicos . A tecnologia ajuda na organização de dados e processos .
+Hospital	PROPN	0	29	1	0	O Hospital Albert Einstein utiliza sistemas de informação para apoiar atendimentos médicos . A tecnologia ajuda na organização de dados e processos .
+Albert	PROPN	0	29	2	0	O Hospital Albert Einstein utiliza sistemas de informação para apoiar atendimentos médicos . A tecnologia ajuda na organização de dados e processos .
+Einstein	PROPN	0	29	3	0	O Hospital Albert Einstein utiliza sistemas de informação para apoiar atendimentos médicos . A tecnologia ajuda na organização de dados e processos .
+utiliza	VERB	0	29	4	0	O Hospital Albert Einstein utiliza sistemas de informação para apoiar atendimentos médicos . A tecnologia ajuda na organização de dados e processos .
+sistemas	NOUN	0	29	5	0	O Hospital Albert Einstein utiliza sistemas de informação para apoiar atendimentos médicos . A tecnologia ajuda na organização de dados e processos .
+de	ADP	0	29	6	0	O Hospital Albert Einstein utiliza sistemas de informação para apoiar atendimentos médicos . A tecnologia ajuda na organização de dados e processos .
+informação	NOUN	0	29	7	0	O Hospital Albert Einstein utiliza sistemas de informação para apoiar atendimentos médicos . A tecnologia ajuda na organização de dados e processos .
+para	SCONJ	0	29	8	0	O Hospital Albert Einstein utiliza sistemas de informação para apoiar atendimentos médicos . A tecnologia ajuda na organização de dados e processos .
+apoiar	VERB	0	29	9	0	O Hospital Albert Einstein utiliza sistemas de informação para apoiar atendimentos médicos . A tecnologia ajuda na organização de dados e processos .
+atendimentos	NOUN	1	29	10	0	O Hospital Albert Einstein utiliza sistemas de informação para apoiar atendimentos médicos . A tecnologia ajuda na organização de dados e processos .
+médicos	ADJ	0	29	11	0	O Hospital Albert Einstein utiliza sistemas de informação para apoiar atendimentos médicos . A tecnologia ajuda na organização de dados e processos .
+.	PUNCT	0	29	12	0	O Hospital Albert Einstein utiliza sistemas de informação para apoiar atendimentos médicos . A tecnologia ajuda na organização de dados e processos .
+A	DET	0	29	13	0	O Hospital Albert Einstein utiliza sistemas de informação para apoiar atendimentos médicos . A tecnologia ajuda na organização de dados e processos .
+tecnologia	NOUN	0	29	14	0	O Hospital Albert Einstein utiliza sistemas de informação para apoiar atendimentos médicos . A tecnologia ajuda na organização de dados e processos .
+ajuda	VERB	0	29	15	0	O Hospital Albert Einstein utiliza sistemas de informação para apoiar atendimentos médicos . A tecnologia ajuda na organização de dados e processos .
+na	ADP	0	29	16	0	O Hospital Albert Einstein utiliza sistemas de informação para apoiar atendimentos médicos . A tecnologia ajuda na organização de dados e processos .
+organização	NOUN	0	29	17	0	O Hospital Albert Einstein utiliza sistemas de informação para apoiar atendimentos médicos . A tecnologia ajuda na organização de dados e processos .
+de	ADP	0	29	18	0	O Hospital Albert Einstein utiliza sistemas de informação para apoiar atendimentos médicos . A tecnologia ajuda na organização de dados e processos .
+dados	NOUN	0	29	19	0	O Hospital Albert Einstein utiliza sistemas de informação para apoiar atendimentos médicos . A tecnologia ajuda na organização de dados e processos .
+e	CCONJ	0	29	20	0	O Hospital Albert Einstein utiliza sistemas de informação para apoiar atendimentos médicos . A tecnologia ajuda na organização de dados e processos .
+processos	NOUN	0	29	21	0	O Hospital Albert Einstein utiliza sistemas de informação para apoiar atendimentos médicos . A tecnologia ajuda na organização de dados e processos .
+.	PUNCT	0	29	22	0	O Hospital Albert Einstein utiliza sistemas de informação para apoiar atendimentos médicos . A tecnologia ajuda na organização de dados e processos .
+28	['DET', 'PROPN', 'PROPN', 'PROPN', 'VERB', 'NOUN', 'ADP', 'NOUN', 'SCONJ', 'VERB', 'NOUN', 'ADJ', 'PUNCT', 'DET', 'NOUN', 'VERB', 'ADP', 'NOUN', 'ADP', 'NOUN', 'CCONJ', 'NOUN', 'PUNCT']	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	29	28	1	O Hospital Albert Einstein utiliza sistemas de informação para apoiar atendimentos médicos . A tecnologia ajuda na organização de dados e processos .
+A	DET	0	30	0	0	A Fundação Oswaldo Cruz realiza pesquisas científicas na área da saúde . A instituição também produz informações para políticas públicas no Brasil .
+Fundação	PROPN	0	30	1	0	A Fundação Oswaldo Cruz realiza pesquisas científicas na área da saúde . A instituição também produz informações para políticas públicas no Brasil .
+Oswaldo	PROPN	1	30	2	0	A Fundação Oswaldo Cruz realiza pesquisas científicas na área da saúde . A instituição também produz informações para políticas públicas no Brasil .
+Cruz	PROPN	0	30	3	0	A Fundação Oswaldo Cruz realiza pesquisas científicas na área da saúde . A instituição também produz informações para políticas públicas no Brasil .
+realiza	VERB	0	30	4	0	A Fundação Oswaldo Cruz realiza pesquisas científicas na área da saúde . A instituição também produz informações para políticas públicas no Brasil .
+pesquisas	NOUN	0	30	5	0	A Fundação Oswaldo Cruz realiza pesquisas científicas na área da saúde . A instituição também produz informações para políticas públicas no Brasil .
+científicas	ADJ	0	30	6	0	A Fundação Oswaldo Cruz realiza pesquisas científicas na área da saúde . A instituição também produz informações para políticas públicas no Brasil .
+na	ADP	0	30	7	0	A Fundação Oswaldo Cruz realiza pesquisas científicas na área da saúde . A instituição também produz informações para políticas públicas no Brasil .
+área	NOUN	0	30	8	0	A Fundação Oswaldo Cruz realiza pesquisas científicas na área da saúde . A instituição também produz informações para políticas públicas no Brasil .
+da	ADP	0	30	9	0	A Fundação Oswaldo Cruz realiza pesquisas científicas na área da saúde . A instituição também produz informações para políticas públicas no Brasil .
+saúde	NOUN	0	30	10	0	A Fundação Oswaldo Cruz realiza pesquisas científicas na área da saúde . A instituição também produz informações para políticas públicas no Brasil .
+.	PUNCT	0	30	11	0	A Fundação Oswaldo Cruz realiza pesquisas científicas na área da saúde . A instituição também produz informações para políticas públicas no Brasil .
+A	DET	0	30	12	0	A Fundação Oswaldo Cruz realiza pesquisas científicas na área da saúde . A instituição também produz informações para políticas públicas no Brasil .
+instituição	NOUN	0	30	13	0	A Fundação Oswaldo Cruz realiza pesquisas científicas na área da saúde . A instituição também produz informações para políticas públicas no Brasil .
+também	ADV	0	30	14	0	A Fundação Oswaldo Cruz realiza pesquisas científicas na área da saúde . A instituição também produz informações para políticas públicas no Brasil .
+produz	VERB	0	30	15	0	A Fundação Oswaldo Cruz realiza pesquisas científicas na área da saúde . A instituição também produz informações para políticas públicas no Brasil .
+informações	NOUN	0	30	16	0	A Fundação Oswaldo Cruz realiza pesquisas científicas na área da saúde . A instituição também produz informações para políticas públicas no Brasil .
+para	ADP	0	30	17	0	A Fundação Oswaldo Cruz realiza pesquisas científicas na área da saúde . A instituição também produz informações para políticas públicas no Brasil .
+políticas	NOUN	0	30	18	0	A Fundação Oswaldo Cruz realiza pesquisas científicas na área da saúde . A instituição também produz informações para políticas públicas no Brasil .
+públicas	ADJ	0	30	19	0	A Fundação Oswaldo Cruz realiza pesquisas científicas na área da saúde . A instituição também produz informações para políticas públicas no Brasil .
+no	ADP	0	30	20	0	A Fundação Oswaldo Cruz realiza pesquisas científicas na área da saúde . A instituição também produz informações para políticas públicas no Brasil .
+Brasil	PROPN	0	30	21	0	A Fundação Oswaldo Cruz realiza pesquisas científicas na área da saúde . A instituição também produz informações para políticas públicas no Brasil .
+.	PUNCT	0	30	22	0	A Fundação Oswaldo Cruz realiza pesquisas científicas na área da saúde . A instituição também produz informações para políticas públicas no Brasil .
+29	['DET', 'PROPN', 'PROPN', 'PROPN', 'VERB', 'NOUN', 'ADJ', 'ADP', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'DET', 'NOUN', 'ADV', 'VERB', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'ADP', 'PROPN', 'PUNCT']	[0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	30	29	1	A Fundação Oswaldo Cruz realiza pesquisas científicas na área da saúde . A instituição também produz informações para políticas públicas no Brasil .
